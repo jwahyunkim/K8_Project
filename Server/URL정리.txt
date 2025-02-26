@@ -1,0 +1,25 @@
+- 기본 URL: `http://localhost:8080`
+
+- **로그인**  
+  - `POST http://localhost:8080/login`  
+  - **비유**: 문 앞에서 입장권(토큰)을 받는 곳
+
+- **회원 생성**  
+  - `POST http://localhost:8080/members`  
+  - **비유**: 새로운 회원을 명단에 추가하는 창구
+
+- **전체 회원 조회**  
+  - `GET http://localhost:8080/members`  
+  - **비유**: 명단 전체를 보는 창문
+
+- **개별 회원 조회**  
+  - `GET http://localhost:8080/members/{userId}`  
+  - **비유**: 특정 회원의 정보를 확인하는 열쇠
+
+- **회원 정보 수정**  
+  - `PUT http://localhost:8080/members/{userId}`  
+  - **비유**: 회원 정보에 수정을 가하는 공구
+
+- **회원 삭제**  
+  - `DELETE http://localhost:8080/members/{userId}`  
+  - **비유**: 회원을 명단에서 지우는 지우개
