@@ -1,0 +1,87 @@
+/* 전체 컨테이너 */
+* {
+padding: 0;
+}
+.mainarea {
+    position: absolute;
+    /* 위치를 절대값으로 설정 */
+    top: 0;
+    /* 원하는 위치 지정 */
+    left: 90px;
+    /* 원하는 위치 지정 */
+    display: flex;
+    flex-direction: row;
+    height: 950px;
+    width: 1800px;
+    max-width: 100vw;
+    /* border: 2px solid black; */
+    gap: 20px;
+    /* padding: 10px; */
+}
+
+/* Area1 부모 영역 */
+.area1 {
+    display: flex;
+    flex-direction: column; /* 세로로 배치 */
+    justify-content: start; /* 자식 요소 위쪽 정렬 */
+    background-color: #f0f0f0; /* 연한 회색 */
+    width: 300px;
+    height: 100%;
+    padding-left: 4px;
+    gap: 10px;
+}
+
+/* Area1 자식 요소 */
+.a1, .a2, .a3, .a4, .a5 {
+    
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column; /* 자식 요소 내부에서 세로 정렬 */
+    align-items: center; /* 세로 방향 중앙 정렬 */
+    /* justify-content: center; 가로 방향 중앙 정렬 */
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.a1 {
+    
+    padding-top: 30px
+}
+
+
+
+/* Area2 부모 영역 */
+.area2 {
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid #8d8d8d; */
+    width: 1450px;
+}
+
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center; /* 화면 중앙 정렬 */
+    z-index: 1000;
+  }
+  
+  .popup-content {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 500px;
+    text-align: center;
+    position: relative;
+    z-index: 1001;
+  }
+  
+
+
+  

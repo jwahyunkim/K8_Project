@@ -1,0 +1,4017 @@
+[
+    {
+        "effectiveDate": "2025-01-01",
+        "prices": {
+            "ALUMINUM": 6768.98,
+            "ZINC": 5348.38,
+            "COPPER": 6985.93,
+            "IRON": 9417.2,
+            "STAINLESS": 5190.37,
+            "NICKEL": 3929.7
+        }
+    },
+    {
+        "effectiveDate": "2025-01-02",
+        "prices": {
+            "ALUMINUM": 4718.72,
+            "ZINC": 6982.86,
+            "COPPER": 2502.69,
+            "IRON": 3501.29,
+            "STAINLESS": 8058.71,
+            "NICKEL": 7195.71
+        }
+    },
+    {
+        "effectiveDate": "2025-01-03",
+        "prices": {
+            "ALUMINUM": 6424.51,
+            "ZINC": 9046.48,
+            "COPPER": 8404.08,
+            "IRON": 9420.21,
+            "STAINLESS": 9580.6,
+            "NICKEL": 8344.55
+        }
+    },
+    {
+        "effectiveDate": "2025-01-04",
+        "prices": {
+            "ALUMINUM": 4032.85,
+            "ZINC": 5519.86,
+            "COPPER": 9683.52,
+            "IRON": 4071.31,
+            "STAINLESS": 9551.84,
+            "NICKEL": 2767.98
+        }
+    },
+    {
+        "effectiveDate": "2025-01-05",
+        "prices": {
+            "ALUMINUM": 3837.65,
+            "ZINC": 3666.32,
+            "COPPER": 8485.14,
+            "IRON": 3885.4,
+            "STAINLESS": 5660.55,
+            "NICKEL": 4647.65
+        }
+    },
+    {
+        "effectiveDate": "2025-01-06",
+        "prices": {
+            "ALUMINUM": 3151.67,
+            "ZINC": 9398.9,
+            "COPPER": 8050.54,
+            "IRON": 9516.95,
+            "STAINLESS": 3694.61,
+            "NICKEL": 4712.96
+        }
+    },
+    {
+        "effectiveDate": "2025-01-07",
+        "prices": {
+            "ALUMINUM": 4499.06,
+            "ZINC": 2075.62,
+            "COPPER": 5810.77,
+            "IRON": 7869.85,
+            "STAINLESS": 4181.28,
+            "NICKEL": 8451.98
+        }
+    },
+    {
+        "effectiveDate": "2025-01-08",
+        "prices": {
+            "ALUMINUM": 5428.37,
+            "ZINC": 9414.77,
+            "COPPER": 7088.2,
+            "IRON": 8225.07,
+            "STAINLESS": 3125.54,
+            "NICKEL": 3729.46
+        }
+    },
+    {
+        "effectiveDate": "2025-01-09",
+        "prices": {
+            "ALUMINUM": 6258.14,
+            "ZINC": 3194.17,
+            "COPPER": 9915.63,
+            "IRON": 2132.5,
+            "STAINLESS": 4148.01,
+            "NICKEL": 3763.94
+        }
+    },
+    {
+        "effectiveDate": "2025-01-10",
+        "prices": {
+            "ALUMINUM": 5586.91,
+            "ZINC": 9204.21,
+            "COPPER": 7279.46,
+            "IRON": 6901.82,
+            "STAINLESS": 3518.91,
+            "NICKEL": 8105.72
+        }
+    },
+    {
+        "effectiveDate": "2025-01-11",
+        "prices": {
+            "ALUMINUM": 8100.1,
+            "ZINC": 2737.24,
+            "COPPER": 4106.02,
+            "IRON": 2869.27,
+            "STAINLESS": 2951.59,
+            "NICKEL": 8911.07
+        }
+    },
+    {
+        "effectiveDate": "2025-01-12",
+        "prices": {
+            "ALUMINUM": 3547.0,
+            "ZINC": 4117.07,
+            "COPPER": 6072.81,
+            "IRON": 3988.58,
+            "STAINLESS": 8704.29,
+            "NICKEL": 7242.63
+        }
+    },
+    {
+        "effectiveDate": "2025-01-13",
+        "prices": {
+            "ALUMINUM": 4659.52,
+            "ZINC": 5873.65,
+            "COPPER": 7247.53,
+            "IRON": 7269.98,
+            "STAINLESS": 5853.38,
+            "NICKEL": 9742.94
+        }
+    },
+    {
+        "effectiveDate": "2025-01-14",
+        "prices": {
+            "ALUMINUM": 8082.98,
+            "ZINC": 3151.81,
+            "COPPER": 4615.15,
+            "IRON": 6638.99,
+            "STAINLESS": 8667.82,
+            "NICKEL": 8556.33
+        }
+    },
+    {
+        "effectiveDate": "2025-01-15",
+        "prices": {
+            "ALUMINUM": 8558.04,
+            "ZINC": 8300.25,
+            "COPPER": 9878.71,
+            "IRON": 8030.75,
+            "STAINLESS": 3644.93,
+            "NICKEL": 4975.22
+        }
+    },
+    {
+        "effectiveDate": "2025-01-16",
+        "prices": {
+            "ALUMINUM": 6073.01,
+            "ZINC": 9070.94,
+            "COPPER": 4505.48,
+            "IRON": 9553.86,
+            "STAINLESS": 7346.64,
+            "NICKEL": 2747.96
+        }
+    },
+    {
+        "effectiveDate": "2025-01-17",
+        "prices": {
+            "ALUMINUM": 8968.04,
+            "ZINC": 2967.53,
+            "COPPER": 9371.99,
+            "IRON": 2110.94,
+            "STAINLESS": 3524.73,
+            "NICKEL": 3816.9
+        }
+    },
+    {
+        "effectiveDate": "2025-01-18",
+        "prices": {
+            "ALUMINUM": 7846.46,
+            "ZINC": 4134.63,
+            "COPPER": 6263.86,
+            "IRON": 3479.68,
+            "STAINLESS": 4806.29,
+            "NICKEL": 9310.57
+        }
+    },
+    {
+        "effectiveDate": "2025-01-19",
+        "prices": {
+            "ALUMINUM": 5452.94,
+            "ZINC": 6632.63,
+            "COPPER": 9660.92,
+            "IRON": 6722.95,
+            "STAINLESS": 7547.21,
+            "NICKEL": 5451.34
+        }
+    },
+    {
+        "effectiveDate": "2025-01-20",
+        "prices": {
+            "ALUMINUM": 7158.93,
+            "ZINC": 3455.28,
+            "COPPER": 9580.88,
+            "IRON": 6005.88,
+            "STAINLESS": 9407.89,
+            "NICKEL": 9822.61
+        }
+    },
+    {
+        "effectiveDate": "2025-01-21",
+        "prices": {
+            "ALUMINUM": 5080.12,
+            "ZINC": 3541.55,
+            "COPPER": 5129.82,
+            "IRON": 2314.75,
+            "STAINLESS": 2991.93,
+            "NICKEL": 2960.84
+        }
+    },
+    {
+        "effectiveDate": "2025-01-22",
+        "prices": {
+            "ALUMINUM": 6140.23,
+            "ZINC": 6797.85,
+            "COPPER": 2734.36,
+            "IRON": 3951.67,
+            "STAINLESS": 4410.61,
+            "NICKEL": 8686.36
+        }
+    },
+    {
+        "effectiveDate": "2025-01-23",
+        "prices": {
+            "ALUMINUM": 2398.82,
+            "ZINC": 6881.62,
+            "COPPER": 2249.02,
+            "IRON": 9164.61,
+            "STAINLESS": 9811.13,
+            "NICKEL": 4638.35
+        }
+    },
+    {
+        "effectiveDate": "2025-01-24",
+        "prices": {
+            "ALUMINUM": 9373.46,
+            "ZINC": 7427.71,
+            "COPPER": 6818.18,
+            "IRON": 2563.49,
+            "STAINLESS": 5986.14,
+            "NICKEL": 5271.05
+        }
+    },
+    {
+        "effectiveDate": "2025-01-25",
+        "prices": {
+            "ALUMINUM": 5466.08,
+            "ZINC": 2533.08,
+            "COPPER": 4984.0,
+            "IRON": 7390.31,
+            "STAINLESS": 6112.22,
+            "NICKEL": 6453.37
+        }
+    },
+    {
+        "effectiveDate": "2025-01-26",
+        "prices": {
+            "ALUMINUM": 8369.29,
+            "ZINC": 2402.93,
+            "COPPER": 8170.19,
+            "IRON": 8553.28,
+            "STAINLESS": 8784.77,
+            "NICKEL": 3099.71
+        }
+    },
+    {
+        "effectiveDate": "2025-01-27",
+        "prices": {
+            "ALUMINUM": 2740.88,
+            "ZINC": 7421.25,
+            "COPPER": 9657.14,
+            "IRON": 6359.52,
+            "STAINLESS": 4273.7,
+            "NICKEL": 3087.44
+        }
+    },
+    {
+        "effectiveDate": "2025-01-28",
+        "prices": {
+            "ALUMINUM": 8396.95,
+            "ZINC": 6093.46,
+            "COPPER": 8293.83,
+            "IRON": 7023.68,
+            "STAINLESS": 8573.79,
+            "NICKEL": 4482.59
+        }
+    },
+    {
+        "effectiveDate": "2025-01-29",
+        "prices": {
+            "ALUMINUM": 8940.12,
+            "ZINC": 4040.47,
+            "COPPER": 5838.86,
+            "IRON": 2600.5,
+            "STAINLESS": 7745.93,
+            "NICKEL": 4794.66
+        }
+    },
+    {
+        "effectiveDate": "2025-01-30",
+        "prices": {
+            "ALUMINUM": 5450.01,
+            "ZINC": 6649.8,
+            "COPPER": 6984.58,
+            "IRON": 3219.25,
+            "STAINLESS": 5742.01,
+            "NICKEL": 7770.56
+        }
+    },
+    {
+        "effectiveDate": "2025-01-31",
+        "prices": {
+            "ALUMINUM": 2467.54,
+            "ZINC": 5346.48,
+            "COPPER": 3504.37,
+            "IRON": 8166.04,
+            "STAINLESS": 8435.65,
+            "NICKEL": 7983.78
+        }
+    },
+    {
+        "effectiveDate": "2025-02-01",
+        "prices": {
+            "ALUMINUM": 3952.2,
+            "ZINC": 4696.8,
+            "COPPER": 5961.98,
+            "IRON": 3502.19,
+            "STAINLESS": 3915.9,
+            "NICKEL": 9766.5
+        }
+    },
+    {
+        "effectiveDate": "2025-02-02",
+        "prices": {
+            "ALUMINUM": 9104.13,
+            "ZINC": 2736.69,
+            "COPPER": 7699.24,
+            "IRON": 7260.26,
+            "STAINLESS": 9318.67,
+            "NICKEL": 4396.0
+        }
+    },
+    {
+        "effectiveDate": "2025-02-03",
+        "prices": {
+            "ALUMINUM": 8756.18,
+            "ZINC": 5436.79,
+            "COPPER": 7951.99,
+            "IRON": 2660.69,
+            "STAINLESS": 4334.33,
+            "NICKEL": 5288.62
+        }
+    },
+    {
+        "effectiveDate": "2025-02-04",
+        "prices": {
+            "ALUMINUM": 6318.55,
+            "ZINC": 5578.16,
+            "COPPER": 5575.35,
+            "IRON": 8115.32,
+            "STAINLESS": 9131.37,
+            "NICKEL": 3916.31
+        }
+    },
+    {
+        "effectiveDate": "2025-02-05",
+        "prices": {
+            "ALUMINUM": 8814.38,
+            "ZINC": 7622.68,
+            "COPPER": 2705.98,
+            "IRON": 9972.72,
+            "STAINLESS": 4242.03,
+            "NICKEL": 8510.75
+        }
+    },
+    {
+        "effectiveDate": "2025-02-06",
+        "prices": {
+            "ALUMINUM": 9865.27,
+            "ZINC": 7801.63,
+            "COPPER": 6770.7,
+            "IRON": 2524.86,
+            "STAINLESS": 6110.74,
+            "NICKEL": 2395.93
+        }
+    },
+    {
+        "effectiveDate": "2025-02-07",
+        "prices": {
+            "ALUMINUM": 5031.72,
+            "ZINC": 7807.3,
+            "COPPER": 9789.54,
+            "IRON": 5871.74,
+            "STAINLESS": 6898.78,
+            "NICKEL": 6316.51
+        }
+    },
+    {
+        "effectiveDate": "2025-02-08",
+        "prices": {
+            "ALUMINUM": 4619.43,
+            "ZINC": 5090.92,
+            "COPPER": 7550.71,
+            "IRON": 2869.67,
+            "STAINLESS": 3421.98,
+            "NICKEL": 4720.22
+        }
+    },
+    {
+        "effectiveDate": "2025-02-09",
+        "prices": {
+            "ALUMINUM": 7457.85,
+            "ZINC": 7527.9,
+            "COPPER": 4528.13,
+            "IRON": 3018.56,
+            "STAINLESS": 2964.38,
+            "NICKEL": 9104.19
+        }
+    },
+    {
+        "effectiveDate": "2025-02-10",
+        "prices": {
+            "ALUMINUM": 2128.43,
+            "ZINC": 8290.66,
+            "COPPER": 7176.33,
+            "IRON": 7917.33,
+            "STAINLESS": 7323.44,
+            "NICKEL": 8378.87
+        }
+    },
+    {
+        "effectiveDate": "2025-02-11",
+        "prices": {
+            "ALUMINUM": 7695.35,
+            "ZINC": 5377.42,
+            "COPPER": 6345.91,
+            "IRON": 3187.59,
+            "STAINLESS": 9309.47,
+            "NICKEL": 9386.37
+        }
+    },
+    {
+        "effectiveDate": "2025-02-12",
+        "prices": {
+            "ALUMINUM": 6293.53,
+            "ZINC": 7312.35,
+            "COPPER": 9559.98,
+            "IRON": 4042.76,
+            "STAINLESS": 7446.84,
+            "NICKEL": 6887.22
+        }
+    },
+    {
+        "effectiveDate": "2025-02-13",
+        "prices": {
+            "ALUMINUM": 6273.73,
+            "ZINC": 8886.98,
+            "COPPER": 3725.09,
+            "IRON": 5513.03,
+            "STAINLESS": 3272.05,
+            "NICKEL": 8231.72
+        }
+    },
+    {
+        "effectiveDate": "2025-02-14",
+        "prices": {
+            "ALUMINUM": 3218.13,
+            "ZINC": 3593.61,
+            "COPPER": 4630.4,
+            "IRON": 5504.14,
+            "STAINLESS": 6490.99,
+            "NICKEL": 9936.81
+        }
+    },
+    {
+        "effectiveDate": "2025-02-15",
+        "prices": {
+            "ALUMINUM": 2487.34,
+            "ZINC": 3023.82,
+            "COPPER": 6782.44,
+            "IRON": 8586.24,
+            "STAINLESS": 6063.92,
+            "NICKEL": 3273.2
+        }
+    },
+    {
+        "effectiveDate": "2025-02-16",
+        "prices": {
+            "ALUMINUM": 2640.87,
+            "ZINC": 4564.49,
+            "COPPER": 6005.44,
+            "IRON": 6887.71,
+            "STAINLESS": 6054.29,
+            "NICKEL": 9152.91
+        }
+    },
+    {
+        "effectiveDate": "2025-02-17",
+        "prices": {
+            "ALUMINUM": 7492.28,
+            "ZINC": 2155.58,
+            "COPPER": 2735.28,
+            "IRON": 7803.58,
+            "STAINLESS": 6886.79,
+            "NICKEL": 7394.92
+        }
+    },
+    {
+        "effectiveDate": "2025-02-18",
+        "prices": {
+            "ALUMINUM": 7914.29,
+            "ZINC": 2234.43,
+            "COPPER": 3963.1,
+            "IRON": 7556.66,
+            "STAINLESS": 9217.27,
+            "NICKEL": 7970.1
+        }
+    },
+    {
+        "effectiveDate": "2025-02-19",
+        "prices": {
+            "ALUMINUM": 6378.91,
+            "ZINC": 6583.58,
+            "COPPER": 4195.59,
+            "IRON": 8516.38,
+            "STAINLESS": 3965.55,
+            "NICKEL": 3222.87
+        }
+    },
+    {
+        "effectiveDate": "2025-02-20",
+        "prices": {
+            "ALUMINUM": 2310.71,
+            "ZINC": 8914.75,
+            "COPPER": 2392.14,
+            "IRON": 7797.35,
+            "STAINLESS": 8798.2,
+            "NICKEL": 5459.42
+        }
+    },
+    {
+        "effectiveDate": "2025-02-21",
+        "prices": {
+            "ALUMINUM": 4628.15,
+            "ZINC": 8685.01,
+            "COPPER": 4710.63,
+            "IRON": 2522.06,
+            "STAINLESS": 7494.17,
+            "NICKEL": 2947.59
+        }
+    },
+    {
+        "effectiveDate": "2025-02-22",
+        "prices": {
+            "ALUMINUM": 5244.38,
+            "ZINC": 5920.62,
+            "COPPER": 3647.47,
+            "IRON": 6807.5,
+            "STAINLESS": 5015.69,
+            "NICKEL": 6250.7
+        }
+    },
+    {
+        "effectiveDate": "2025-02-23",
+        "prices": {
+            "ALUMINUM": 7674.61,
+            "ZINC": 9906.66,
+            "COPPER": 9685.28,
+            "IRON": 9410.04,
+            "STAINLESS": 8686.43,
+            "NICKEL": 9801.34
+        }
+    },
+    {
+        "effectiveDate": "2025-02-24",
+        "prices": {
+            "ALUMINUM": 8243.15,
+            "ZINC": 6888.22,
+            "COPPER": 7409.38,
+            "IRON": 5024.4,
+            "STAINLESS": 4566.96,
+            "NICKEL": 3132.66
+        }
+    },
+    {
+        "effectiveDate": "2025-02-25",
+        "prices": {
+            "ALUMINUM": 5197.1,
+            "ZINC": 4098.85,
+            "COPPER": 8611.08,
+            "IRON": 2607.04,
+            "STAINLESS": 4881.65,
+            "NICKEL": 9292.8
+        }
+    },
+    {
+        "effectiveDate": "2025-02-26",
+        "prices": {
+            "ALUMINUM": 3374.53,
+            "ZINC": 9856.77,
+            "COPPER": 3359.7,
+            "IRON": 5302.11,
+            "STAINLESS": 7408.78,
+            "NICKEL": 2008.05
+        }
+    },
+    {
+        "effectiveDate": "2025-02-27",
+        "prices": {
+            "ALUMINUM": 4478.27,
+            "ZINC": 4151.64,
+            "COPPER": 5131.52,
+            "IRON": 5738.83,
+            "STAINLESS": 2166.25,
+            "NICKEL": 2624.38
+        }
+    },
+    {
+        "effectiveDate": "2025-02-28",
+        "prices": {
+            "ALUMINUM": 9536.16,
+            "ZINC": 9660.2,
+            "COPPER": 9087.76,
+            "IRON": 9725.57,
+            "STAINLESS": 4417.07,
+            "NICKEL": 2987.35
+        }
+    },
+    {
+        "effectiveDate": "2025-03-01",
+        "prices": {
+            "ALUMINUM": 8497.0,
+            "ZINC": 2358.01,
+            "COPPER": 7213.38,
+            "IRON": 5590.95,
+            "STAINLESS": 7390.46,
+            "NICKEL": 4465.72
+        }
+    },
+    {
+        "effectiveDate": "2025-03-02",
+        "prices": {
+            "ALUMINUM": 3861.18,
+            "ZINC": 2390.1,
+            "COPPER": 9806.89,
+            "IRON": 3901.34,
+            "STAINLESS": 9253.08,
+            "NICKEL": 5731.68
+        }
+    },
+    {
+        "effectiveDate": "2025-03-03",
+        "prices": {
+            "ALUMINUM": 7587.19,
+            "ZINC": 5106.54,
+            "COPPER": 8944.38,
+            "IRON": 4372.98,
+            "STAINLESS": 5396.88,
+            "NICKEL": 9168.92
+        }
+    },
+    {
+        "effectiveDate": "2025-03-04",
+        "prices": {
+            "ALUMINUM": 9243.78,
+            "ZINC": 7886.21,
+            "COPPER": 2458.53,
+            "IRON": 6145.44,
+            "STAINLESS": 3811.92,
+            "NICKEL": 8545.27
+        }
+    },
+    {
+        "effectiveDate": "2025-03-05",
+        "prices": {
+            "ALUMINUM": 3887.95,
+            "ZINC": 6427.25,
+            "COPPER": 3560.59,
+            "IRON": 6265.57,
+            "STAINLESS": 2377.48,
+            "NICKEL": 5052.2
+        }
+    },
+    {
+        "effectiveDate": "2025-03-06",
+        "prices": {
+            "ALUMINUM": 8226.31,
+            "ZINC": 4878.61,
+            "COPPER": 4825.16,
+            "IRON": 7944.74,
+            "STAINLESS": 7875.2,
+            "NICKEL": 5954.96
+        }
+    },
+    {
+        "effectiveDate": "2025-03-07",
+        "prices": {
+            "ALUMINUM": 9097.51,
+            "ZINC": 8022.39,
+            "COPPER": 8871.1,
+            "IRON": 6927.53,
+            "STAINLESS": 7897.46,
+            "NICKEL": 2920.85
+        }
+    },
+    {
+        "effectiveDate": "2025-03-08",
+        "prices": {
+            "ALUMINUM": 5732.03,
+            "ZINC": 6494.68,
+            "COPPER": 2829.34,
+            "IRON": 4484.03,
+            "STAINLESS": 5391.83,
+            "NICKEL": 9417.95
+        }
+    },
+    {
+        "effectiveDate": "2025-03-09",
+        "prices": {
+            "ALUMINUM": 8619.5,
+            "ZINC": 6429.95,
+            "COPPER": 8339.7,
+            "IRON": 8503.78,
+            "STAINLESS": 9512.85,
+            "NICKEL": 6510.86
+        }
+    },
+    {
+        "effectiveDate": "2025-03-10",
+        "prices": {
+            "ALUMINUM": 2912.0,
+            "ZINC": 7650.94,
+            "COPPER": 7563.55,
+            "IRON": 5529.17,
+            "STAINLESS": 3559.55,
+            "NICKEL": 4866.63
+        }
+    },
+    {
+        "effectiveDate": "2025-03-11",
+        "prices": {
+            "ALUMINUM": 9006.94,
+            "ZINC": 2767.9,
+            "COPPER": 2392.57,
+            "IRON": 4566.74,
+            "STAINLESS": 4651.25,
+            "NICKEL": 3086.74
+        }
+    },
+    {
+        "effectiveDate": "2025-03-12",
+        "prices": {
+            "ALUMINUM": 2526.97,
+            "ZINC": 6078.41,
+            "COPPER": 2384.98,
+            "IRON": 6551.89,
+            "STAINLESS": 7959.01,
+            "NICKEL": 5877.04
+        }
+    },
+    {
+        "effectiveDate": "2025-03-13",
+        "prices": {
+            "ALUMINUM": 3618.99,
+            "ZINC": 5449.44,
+            "COPPER": 6763.55,
+            "IRON": 6342.94,
+            "STAINLESS": 3530.97,
+            "NICKEL": 9166.45
+        }
+    },
+    {
+        "effectiveDate": "2025-03-14",
+        "prices": {
+            "ALUMINUM": 5645.52,
+            "ZINC": 2030.18,
+            "COPPER": 7974.57,
+            "IRON": 5700.63,
+            "STAINLESS": 7406.39,
+            "NICKEL": 5226.01
+        }
+    },
+    {
+        "effectiveDate": "2025-03-15",
+        "prices": {
+            "ALUMINUM": 5367.93,
+            "ZINC": 7855.36,
+            "COPPER": 6223.7,
+            "IRON": 3132.56,
+            "STAINLESS": 8968.24,
+            "NICKEL": 6515.01
+        }
+    },
+    {
+        "effectiveDate": "2025-03-16",
+        "prices": {
+            "ALUMINUM": 6120.57,
+            "ZINC": 5118.1,
+            "COPPER": 8603.62,
+            "IRON": 6559.87,
+            "STAINLESS": 9549.66,
+            "NICKEL": 8003.34
+        }
+    },
+    {
+        "effectiveDate": "2025-03-17",
+        "prices": {
+            "ALUMINUM": 7252.02,
+            "ZINC": 2324.74,
+            "COPPER": 5027.26,
+            "IRON": 9129.63,
+            "STAINLESS": 8937.67,
+            "NICKEL": 9417.15
+        }
+    },
+    {
+        "effectiveDate": "2025-03-18",
+        "prices": {
+            "ALUMINUM": 2048.04,
+            "ZINC": 9778.01,
+            "COPPER": 4364.16,
+            "IRON": 6066.84,
+            "STAINLESS": 5806.51,
+            "NICKEL": 2049.52
+        }
+    },
+    {
+        "effectiveDate": "2025-03-19",
+        "prices": {
+            "ALUMINUM": 2184.38,
+            "ZINC": 2983.29,
+            "COPPER": 4479.64,
+            "IRON": 8673.67,
+            "STAINLESS": 6869.5,
+            "NICKEL": 5643.93
+        }
+    },
+    {
+        "effectiveDate": "2025-03-20",
+        "prices": {
+            "ALUMINUM": 5136.25,
+            "ZINC": 7373.37,
+            "COPPER": 2186.96,
+            "IRON": 9213.54,
+            "STAINLESS": 4591.38,
+            "NICKEL": 5845.7
+        }
+    },
+    {
+        "effectiveDate": "2025-03-21",
+        "prices": {
+            "ALUMINUM": 4986.51,
+            "ZINC": 4171.81,
+            "COPPER": 2022.16,
+            "IRON": 4508.92,
+            "STAINLESS": 8142.28,
+            "NICKEL": 7342.83
+        }
+    },
+    {
+        "effectiveDate": "2025-03-22",
+        "prices": {
+            "ALUMINUM": 3190.11,
+            "ZINC": 8672.85,
+            "COPPER": 8652.69,
+            "IRON": 2014.5,
+            "STAINLESS": 2908.29,
+            "NICKEL": 6276.34
+        }
+    },
+    {
+        "effectiveDate": "2025-03-23",
+        "prices": {
+            "ALUMINUM": 7997.13,
+            "ZINC": 3743.14,
+            "COPPER": 7541.08,
+            "IRON": 2463.29,
+            "STAINLESS": 3159.28,
+            "NICKEL": 7600.09
+        }
+    },
+    {
+        "effectiveDate": "2025-03-24",
+        "prices": {
+            "ALUMINUM": 4228.33,
+            "ZINC": 7098.48,
+            "COPPER": 8107.97,
+            "IRON": 7918.87,
+            "STAINLESS": 5419.34,
+            "NICKEL": 7308.17
+        }
+    },
+    {
+        "effectiveDate": "2025-03-25",
+        "prices": {
+            "ALUMINUM": 4668.53,
+            "ZINC": 2560.75,
+            "COPPER": 5933.6,
+            "IRON": 5646.67,
+            "STAINLESS": 8943.98,
+            "NICKEL": 7152.99
+        }
+    },
+    {
+        "effectiveDate": "2025-03-26",
+        "prices": {
+            "ALUMINUM": 6023.62,
+            "ZINC": 4435.63,
+            "COPPER": 3906.61,
+            "IRON": 6309.42,
+            "STAINLESS": 8499.84,
+            "NICKEL": 3429.26
+        }
+    },
+    {
+        "effectiveDate": "2025-03-27",
+        "prices": {
+            "ALUMINUM": 2534.61,
+            "ZINC": 4673.69,
+            "COPPER": 7520.08,
+            "IRON": 8108.96,
+            "STAINLESS": 7307.28,
+            "NICKEL": 2974.61
+        }
+    },
+    {
+        "effectiveDate": "2025-03-28",
+        "prices": {
+            "ALUMINUM": 5055.57,
+            "ZINC": 4637.78,
+            "COPPER": 2503.25,
+            "IRON": 4041.11,
+            "STAINLESS": 3794.58,
+            "NICKEL": 3265.03
+        }
+    },
+    {
+        "effectiveDate": "2025-03-29",
+        "prices": {
+            "ALUMINUM": 6618.52,
+            "ZINC": 7113.15,
+            "COPPER": 7379.45,
+            "IRON": 3490.61,
+            "STAINLESS": 4977.14,
+            "NICKEL": 2659.98
+        }
+    },
+    {
+        "effectiveDate": "2025-03-30",
+        "prices": {
+            "ALUMINUM": 4338.61,
+            "ZINC": 8163.2,
+            "COPPER": 5160.08,
+            "IRON": 4382.54,
+            "STAINLESS": 6115.89,
+            "NICKEL": 9944.99
+        }
+    },
+    {
+        "effectiveDate": "2025-03-31",
+        "prices": {
+            "ALUMINUM": 3325.62,
+            "ZINC": 2095.21,
+            "COPPER": 6606.75,
+            "IRON": 9067.42,
+            "STAINLESS": 3395.35,
+            "NICKEL": 9835.99
+        }
+    },
+    {
+        "effectiveDate": "2025-04-01",
+        "prices": {
+            "ALUMINUM": 6667.01,
+            "ZINC": 5618.34,
+            "COPPER": 5618.14,
+            "IRON": 8038.88,
+            "STAINLESS": 5600.58,
+            "NICKEL": 4038.54
+        }
+    },
+    {
+        "effectiveDate": "2025-04-02",
+        "prices": {
+            "ALUMINUM": 5534.07,
+            "ZINC": 9770.76,
+            "COPPER": 4872.16,
+            "IRON": 3918.0,
+            "STAINLESS": 8198.78,
+            "NICKEL": 6709.53
+        }
+    },
+    {
+        "effectiveDate": "2025-04-03",
+        "prices": {
+            "ALUMINUM": 4663.95,
+            "ZINC": 2881.26,
+            "COPPER": 6748.31,
+            "IRON": 4994.12,
+            "STAINLESS": 6916.06,
+            "NICKEL": 8768.5
+        }
+    },
+    {
+        "effectiveDate": "2025-04-04",
+        "prices": {
+            "ALUMINUM": 4062.44,
+            "ZINC": 4267.68,
+            "COPPER": 7077.39,
+            "IRON": 2211.86,
+            "STAINLESS": 6969.99,
+            "NICKEL": 9629.01
+        }
+    },
+    {
+        "effectiveDate": "2025-04-05",
+        "prices": {
+            "ALUMINUM": 6083.31,
+            "ZINC": 5722.2,
+            "COPPER": 5830.24,
+            "IRON": 8473.76,
+            "STAINLESS": 8643.62,
+            "NICKEL": 6442.86
+        }
+    },
+    {
+        "effectiveDate": "2025-04-06",
+        "prices": {
+            "ALUMINUM": 5141.66,
+            "ZINC": 9704.95,
+            "COPPER": 6028.12,
+            "IRON": 3048.28,
+            "STAINLESS": 7655.01,
+            "NICKEL": 3619.26
+        }
+    },
+    {
+        "effectiveDate": "2025-04-07",
+        "prices": {
+            "ALUMINUM": 5082.43,
+            "ZINC": 2898.96,
+            "COPPER": 7168.12,
+            "IRON": 8010.98,
+            "STAINLESS": 2386.52,
+            "NICKEL": 5588.3
+        }
+    },
+    {
+        "effectiveDate": "2025-04-08",
+        "prices": {
+            "ALUMINUM": 5987.87,
+            "ZINC": 4765.24,
+            "COPPER": 5963.43,
+            "IRON": 8264.98,
+            "STAINLESS": 8083.03,
+            "NICKEL": 2476.34
+        }
+    },
+    {
+        "effectiveDate": "2025-04-09",
+        "prices": {
+            "ALUMINUM": 9006.04,
+            "ZINC": 8196.89,
+            "COPPER": 7832.71,
+            "IRON": 6735.06,
+            "STAINLESS": 2947.79,
+            "NICKEL": 3604.37
+        }
+    },
+    {
+        "effectiveDate": "2025-04-10",
+        "prices": {
+            "ALUMINUM": 5440.25,
+            "ZINC": 4293.26,
+            "COPPER": 7579.68,
+            "IRON": 3419.91,
+            "STAINLESS": 5657.43,
+            "NICKEL": 9384.88
+        }
+    },
+    {
+        "effectiveDate": "2025-04-11",
+        "prices": {
+            "ALUMINUM": 5071.25,
+            "ZINC": 5429.32,
+            "COPPER": 8835.78,
+            "IRON": 7450.46,
+            "STAINLESS": 7024.32,
+            "NICKEL": 5084.88
+        }
+    },
+    {
+        "effectiveDate": "2025-04-12",
+        "prices": {
+            "ALUMINUM": 6326.79,
+            "ZINC": 3278.02,
+            "COPPER": 4140.59,
+            "IRON": 5050.84,
+            "STAINLESS": 8757.56,
+            "NICKEL": 5022.06
+        }
+    },
+    {
+        "effectiveDate": "2025-04-13",
+        "prices": {
+            "ALUMINUM": 9025.25,
+            "ZINC": 4014.08,
+            "COPPER": 5290.19,
+            "IRON": 6481.98,
+            "STAINLESS": 4357.32,
+            "NICKEL": 9653.99
+        }
+    },
+    {
+        "effectiveDate": "2025-04-14",
+        "prices": {
+            "ALUMINUM": 8372.7,
+            "ZINC": 9341.33,
+            "COPPER": 6179.52,
+            "IRON": 6859.28,
+            "STAINLESS": 9548.86,
+            "NICKEL": 4179.83
+        }
+    },
+    {
+        "effectiveDate": "2025-04-15",
+        "prices": {
+            "ALUMINUM": 5779.05,
+            "ZINC": 5179.0,
+            "COPPER": 4642.92,
+            "IRON": 3404.61,
+            "STAINLESS": 4187.08,
+            "NICKEL": 8002.33
+        }
+    },
+    {
+        "effectiveDate": "2025-04-16",
+        "prices": {
+            "ALUMINUM": 9021.77,
+            "ZINC": 4615.23,
+            "COPPER": 9943.98,
+            "IRON": 9550.93,
+            "STAINLESS": 3693.31,
+            "NICKEL": 4363.8
+        }
+    },
+    {
+        "effectiveDate": "2025-04-17",
+        "prices": {
+            "ALUMINUM": 5528.15,
+            "ZINC": 6531.32,
+            "COPPER": 8418.95,
+            "IRON": 8023.16,
+            "STAINLESS": 7455.62,
+            "NICKEL": 4237.75
+        }
+    },
+    {
+        "effectiveDate": "2025-04-18",
+        "prices": {
+            "ALUMINUM": 2387.35,
+            "ZINC": 7971.1,
+            "COPPER": 9718.98,
+            "IRON": 3688.96,
+            "STAINLESS": 6850.64,
+            "NICKEL": 4960.62
+        }
+    },
+    {
+        "effectiveDate": "2025-04-19",
+        "prices": {
+            "ALUMINUM": 3880.82,
+            "ZINC": 2021.13,
+            "COPPER": 2812.96,
+            "IRON": 3044.99,
+            "STAINLESS": 2043.07,
+            "NICKEL": 8880.04
+        }
+    },
+    {
+        "effectiveDate": "2025-04-20",
+        "prices": {
+            "ALUMINUM": 8986.4,
+            "ZINC": 8433.92,
+            "COPPER": 5186.99,
+            "IRON": 3271.72,
+            "STAINLESS": 6828.3,
+            "NICKEL": 6307.91
+        }
+    },
+    {
+        "effectiveDate": "2025-04-21",
+        "prices": {
+            "ALUMINUM": 9535.11,
+            "ZINC": 5968.35,
+            "COPPER": 2386.8,
+            "IRON": 7049.92,
+            "STAINLESS": 3254.74,
+            "NICKEL": 4881.2
+        }
+    },
+    {
+        "effectiveDate": "2025-04-22",
+        "prices": {
+            "ALUMINUM": 5282.12,
+            "ZINC": 6902.64,
+            "COPPER": 3974.25,
+            "IRON": 6732.65,
+            "STAINLESS": 5238.88,
+            "NICKEL": 8064.52
+        }
+    },
+    {
+        "effectiveDate": "2025-04-23",
+        "prices": {
+            "ALUMINUM": 4123.27,
+            "ZINC": 3925.76,
+            "COPPER": 5576.09,
+            "IRON": 6644.1,
+            "STAINLESS": 5906.21,
+            "NICKEL": 6884.42
+        }
+    },
+    {
+        "effectiveDate": "2025-04-24",
+        "prices": {
+            "ALUMINUM": 4227.69,
+            "ZINC": 8109.88,
+            "COPPER": 5099.03,
+            "IRON": 5101.93,
+            "STAINLESS": 5772.12,
+            "NICKEL": 7000.2
+        }
+    },
+    {
+        "effectiveDate": "2025-04-25",
+        "prices": {
+            "ALUMINUM": 3627.9,
+            "ZINC": 6167.59,
+            "COPPER": 5974.64,
+            "IRON": 6652.08,
+            "STAINLESS": 8511.03,
+            "NICKEL": 9965.84
+        }
+    },
+    {
+        "effectiveDate": "2025-04-26",
+        "prices": {
+            "ALUMINUM": 9951.22,
+            "ZINC": 8500.19,
+            "COPPER": 7589.32,
+            "IRON": 5257.53,
+            "STAINLESS": 5524.93,
+            "NICKEL": 2457.81
+        }
+    },
+    {
+        "effectiveDate": "2025-04-27",
+        "prices": {
+            "ALUMINUM": 3713.68,
+            "ZINC": 6366.25,
+            "COPPER": 5699.65,
+            "IRON": 5914.12,
+            "STAINLESS": 9865.64,
+            "NICKEL": 9134.47
+        }
+    },
+    {
+        "effectiveDate": "2025-04-28",
+        "prices": {
+            "ALUMINUM": 4555.64,
+            "ZINC": 6919.88,
+            "COPPER": 9574.63,
+            "IRON": 9800.78,
+            "STAINLESS": 4318.73,
+            "NICKEL": 8201.37
+        }
+    },
+    {
+        "effectiveDate": "2025-04-29",
+        "prices": {
+            "ALUMINUM": 9850.57,
+            "ZINC": 9034.71,
+            "COPPER": 7057.41,
+            "IRON": 7837.62,
+            "STAINLESS": 5695.55,
+            "NICKEL": 3546.5
+        }
+    },
+    {
+        "effectiveDate": "2025-04-30",
+        "prices": {
+            "ALUMINUM": 7329.49,
+            "ZINC": 8933.59,
+            "COPPER": 8143.25,
+            "IRON": 9776.23,
+            "STAINLESS": 4855.57,
+            "NICKEL": 5296.38
+        }
+    },
+    {
+        "effectiveDate": "2025-05-01",
+        "prices": {
+            "ALUMINUM": 3028.64,
+            "ZINC": 6564.21,
+            "COPPER": 3627.86,
+            "IRON": 9625.32,
+            "STAINLESS": 7903.84,
+            "NICKEL": 2093.24
+        }
+    },
+    {
+        "effectiveDate": "2025-05-02",
+        "prices": {
+            "ALUMINUM": 2518.59,
+            "ZINC": 6080.94,
+            "COPPER": 5495.87,
+            "IRON": 5811.06,
+            "STAINLESS": 9903.54,
+            "NICKEL": 7112.52
+        }
+    },
+    {
+        "effectiveDate": "2025-05-03",
+        "prices": {
+            "ALUMINUM": 5145.84,
+            "ZINC": 9769.3,
+            "COPPER": 6908.07,
+            "IRON": 7074.14,
+            "STAINLESS": 9682.36,
+            "NICKEL": 8564.13
+        }
+    },
+    {
+        "effectiveDate": "2025-05-04",
+        "prices": {
+            "ALUMINUM": 8251.82,
+            "ZINC": 5321.03,
+            "COPPER": 5178.72,
+            "IRON": 6245.44,
+            "STAINLESS": 2825.41,
+            "NICKEL": 7433.68
+        }
+    },
+    {
+        "effectiveDate": "2025-05-05",
+        "prices": {
+            "ALUMINUM": 4817.83,
+            "ZINC": 8499.27,
+            "COPPER": 2371.99,
+            "IRON": 7259.4,
+            "STAINLESS": 2027.5,
+            "NICKEL": 7955.66
+        }
+    },
+    {
+        "effectiveDate": "2025-05-06",
+        "prices": {
+            "ALUMINUM": 9969.43,
+            "ZINC": 6170.01,
+            "COPPER": 3313.76,
+            "IRON": 7530.66,
+            "STAINLESS": 5519.01,
+            "NICKEL": 7491.68
+        }
+    },
+    {
+        "effectiveDate": "2025-05-07",
+        "prices": {
+            "ALUMINUM": 4537.66,
+            "ZINC": 2981.69,
+            "COPPER": 4961.36,
+            "IRON": 5390.09,
+            "STAINLESS": 8464.08,
+            "NICKEL": 2925.21
+        }
+    },
+    {
+        "effectiveDate": "2025-05-08",
+        "prices": {
+            "ALUMINUM": 7202.9,
+            "ZINC": 9448.17,
+            "COPPER": 9575.14,
+            "IRON": 8207.03,
+            "STAINLESS": 5583.88,
+            "NICKEL": 5398.22
+        }
+    },
+    {
+        "effectiveDate": "2025-05-09",
+        "prices": {
+            "ALUMINUM": 3058.73,
+            "ZINC": 4019.83,
+            "COPPER": 9847.44,
+            "IRON": 5418.81,
+            "STAINLESS": 3750.99,
+            "NICKEL": 3797.33
+        }
+    },
+    {
+        "effectiveDate": "2025-05-10",
+        "prices": {
+            "ALUMINUM": 3604.35,
+            "ZINC": 9785.25,
+            "COPPER": 9873.01,
+            "IRON": 9922.46,
+            "STAINLESS": 4071.98,
+            "NICKEL": 7234.06
+        }
+    },
+    {
+        "effectiveDate": "2025-05-11",
+        "prices": {
+            "ALUMINUM": 9009.9,
+            "ZINC": 7191.91,
+            "COPPER": 3728.7,
+            "IRON": 8334.21,
+            "STAINLESS": 9052.8,
+            "NICKEL": 8859.8
+        }
+    },
+    {
+        "effectiveDate": "2025-05-12",
+        "prices": {
+            "ALUMINUM": 5917.93,
+            "ZINC": 9655.21,
+            "COPPER": 3565.94,
+            "IRON": 4775.1,
+            "STAINLESS": 3188.47,
+            "NICKEL": 4728.22
+        }
+    },
+    {
+        "effectiveDate": "2025-05-13",
+        "prices": {
+            "ALUMINUM": 4812.95,
+            "ZINC": 7469.98,
+            "COPPER": 7537.18,
+            "IRON": 5975.5,
+            "STAINLESS": 8537.85,
+            "NICKEL": 7042.51
+        }
+    },
+    {
+        "effectiveDate": "2025-05-14",
+        "prices": {
+            "ALUMINUM": 7571.44,
+            "ZINC": 7959.13,
+            "COPPER": 6410.59,
+            "IRON": 6886.34,
+            "STAINLESS": 6932.93,
+            "NICKEL": 6637.26
+        }
+    },
+    {
+        "effectiveDate": "2025-05-15",
+        "prices": {
+            "ALUMINUM": 9495.38,
+            "ZINC": 5283.03,
+            "COPPER": 8314.08,
+            "IRON": 7579.79,
+            "STAINLESS": 8583.92,
+            "NICKEL": 7537.12
+        }
+    },
+    {
+        "effectiveDate": "2025-05-16",
+        "prices": {
+            "ALUMINUM": 4781.21,
+            "ZINC": 6750.36,
+            "COPPER": 7018.38,
+            "IRON": 2821.48,
+            "STAINLESS": 3580.53,
+            "NICKEL": 8478.81
+        }
+    },
+    {
+        "effectiveDate": "2025-05-17",
+        "prices": {
+            "ALUMINUM": 5909.62,
+            "ZINC": 4216.46,
+            "COPPER": 7217.94,
+            "IRON": 9066.02,
+            "STAINLESS": 5729.8,
+            "NICKEL": 9893.08
+        }
+    },
+    {
+        "effectiveDate": "2025-05-18",
+        "prices": {
+            "ALUMINUM": 4409.93,
+            "ZINC": 4155.34,
+            "COPPER": 5214.32,
+            "IRON": 8381.31,
+            "STAINLESS": 7891.19,
+            "NICKEL": 5865.89
+        }
+    },
+    {
+        "effectiveDate": "2025-05-19",
+        "prices": {
+            "ALUMINUM": 7871.36,
+            "ZINC": 6623.46,
+            "COPPER": 9399.23,
+            "IRON": 4697.76,
+            "STAINLESS": 2021.04,
+            "NICKEL": 8064.22
+        }
+    },
+    {
+        "effectiveDate": "2025-05-20",
+        "prices": {
+            "ALUMINUM": 3735.04,
+            "ZINC": 4230.07,
+            "COPPER": 2748.92,
+            "IRON": 8547.19,
+            "STAINLESS": 4312.93,
+            "NICKEL": 8729.47
+        }
+    },
+    {
+        "effectiveDate": "2025-05-21",
+        "prices": {
+            "ALUMINUM": 8540.3,
+            "ZINC": 5352.07,
+            "COPPER": 9591.98,
+            "IRON": 7957.93,
+            "STAINLESS": 2668.65,
+            "NICKEL": 8211.86
+        }
+    },
+    {
+        "effectiveDate": "2025-05-22",
+        "prices": {
+            "ALUMINUM": 9156.34,
+            "ZINC": 8256.09,
+            "COPPER": 7088.06,
+            "IRON": 7076.85,
+            "STAINLESS": 8811.36,
+            "NICKEL": 7507.33
+        }
+    },
+    {
+        "effectiveDate": "2025-05-23",
+        "prices": {
+            "ALUMINUM": 8326.82,
+            "ZINC": 8601.92,
+            "COPPER": 6742.78,
+            "IRON": 2870.26,
+            "STAINLESS": 9930.06,
+            "NICKEL": 7071.9
+        }
+    },
+    {
+        "effectiveDate": "2025-05-24",
+        "prices": {
+            "ALUMINUM": 8249.78,
+            "ZINC": 6016.94,
+            "COPPER": 9507.32,
+            "IRON": 4036.39,
+            "STAINLESS": 3260.78,
+            "NICKEL": 6578.4
+        }
+    },
+    {
+        "effectiveDate": "2025-05-25",
+        "prices": {
+            "ALUMINUM": 2211.64,
+            "ZINC": 9988.23,
+            "COPPER": 3459.22,
+            "IRON": 3317.16,
+            "STAINLESS": 4588.29,
+            "NICKEL": 3404.83
+        }
+    },
+    {
+        "effectiveDate": "2025-05-26",
+        "prices": {
+            "ALUMINUM": 2104.69,
+            "ZINC": 3173.05,
+            "COPPER": 8468.98,
+            "IRON": 6163.41,
+            "STAINLESS": 4728.97,
+            "NICKEL": 2856.4
+        }
+    },
+    {
+        "effectiveDate": "2025-05-27",
+        "prices": {
+            "ALUMINUM": 4474.26,
+            "ZINC": 4890.27,
+            "COPPER": 7478.09,
+            "IRON": 2797.47,
+            "STAINLESS": 3384.58,
+            "NICKEL": 5129.87
+        }
+    },
+    {
+        "effectiveDate": "2025-05-28",
+        "prices": {
+            "ALUMINUM": 4163.31,
+            "ZINC": 9374.76,
+            "COPPER": 2923.2,
+            "IRON": 2586.04,
+            "STAINLESS": 9452.44,
+            "NICKEL": 2699.85
+        }
+    },
+    {
+        "effectiveDate": "2025-05-29",
+        "prices": {
+            "ALUMINUM": 8376.03,
+            "ZINC": 6403.79,
+            "COPPER": 4339.84,
+            "IRON": 7411.06,
+            "STAINLESS": 3073.76,
+            "NICKEL": 6100.63
+        }
+    },
+    {
+        "effectiveDate": "2025-05-30",
+        "prices": {
+            "ALUMINUM": 6652.61,
+            "ZINC": 6073.22,
+            "COPPER": 7945.39,
+            "IRON": 6195.34,
+            "STAINLESS": 8982.55,
+            "NICKEL": 6872.89
+        }
+    },
+    {
+        "effectiveDate": "2025-05-31",
+        "prices": {
+            "ALUMINUM": 6948.15,
+            "ZINC": 6576.08,
+            "COPPER": 7489.16,
+            "IRON": 7331.51,
+            "STAINLESS": 5987.73,
+            "NICKEL": 6976.85
+        }
+    },
+    {
+        "effectiveDate": "2025-06-01",
+        "prices": {
+            "ALUMINUM": 3009.11,
+            "ZINC": 8776.32,
+            "COPPER": 2612.11,
+            "IRON": 7775.93,
+            "STAINLESS": 8868.84,
+            "NICKEL": 4238.58
+        }
+    },
+    {
+        "effectiveDate": "2025-06-02",
+        "prices": {
+            "ALUMINUM": 7522.95,
+            "ZINC": 9876.21,
+            "COPPER": 4222.98,
+            "IRON": 8991.93,
+            "STAINLESS": 9703.81,
+            "NICKEL": 6995.96
+        }
+    },
+    {
+        "effectiveDate": "2025-06-03",
+        "prices": {
+            "ALUMINUM": 7447.71,
+            "ZINC": 2218.2,
+            "COPPER": 4527.51,
+            "IRON": 9506.25,
+            "STAINLESS": 7587.3,
+            "NICKEL": 4466.79
+        }
+    },
+    {
+        "effectiveDate": "2025-06-04",
+        "prices": {
+            "ALUMINUM": 3815.68,
+            "ZINC": 6215.75,
+            "COPPER": 6567.92,
+            "IRON": 5539.96,
+            "STAINLESS": 4270.91,
+            "NICKEL": 3486.62
+        }
+    },
+    {
+        "effectiveDate": "2025-06-05",
+        "prices": {
+            "ALUMINUM": 3222.59,
+            "ZINC": 4777.25,
+            "COPPER": 3560.26,
+            "IRON": 9518.37,
+            "STAINLESS": 5754.86,
+            "NICKEL": 9266.78
+        }
+    },
+    {
+        "effectiveDate": "2025-06-06",
+        "prices": {
+            "ALUMINUM": 2160.23,
+            "ZINC": 2227.84,
+            "COPPER": 9437.69,
+            "IRON": 4596.93,
+            "STAINLESS": 9269.89,
+            "NICKEL": 2610.63
+        }
+    },
+    {
+        "effectiveDate": "2025-06-07",
+        "prices": {
+            "ALUMINUM": 8591.63,
+            "ZINC": 8715.55,
+            "COPPER": 9076.74,
+            "IRON": 3888.35,
+            "STAINLESS": 5934.18,
+            "NICKEL": 3291.3
+        }
+    },
+    {
+        "effectiveDate": "2025-06-08",
+        "prices": {
+            "ALUMINUM": 9161.22,
+            "ZINC": 7865.65,
+            "COPPER": 7379.99,
+            "IRON": 2868.63,
+            "STAINLESS": 7398.36,
+            "NICKEL": 9192.86
+        }
+    },
+    {
+        "effectiveDate": "2025-06-09",
+        "prices": {
+            "ALUMINUM": 2868.32,
+            "ZINC": 3324.2,
+            "COPPER": 9932.49,
+            "IRON": 9997.94,
+            "STAINLESS": 4444.46,
+            "NICKEL": 6674.08
+        }
+    },
+    {
+        "effectiveDate": "2025-06-10",
+        "prices": {
+            "ALUMINUM": 7624.32,
+            "ZINC": 7718.88,
+            "COPPER": 5486.68,
+            "IRON": 8047.32,
+            "STAINLESS": 5842.48,
+            "NICKEL": 4073.8
+        }
+    },
+    {
+        "effectiveDate": "2025-06-11",
+        "prices": {
+            "ALUMINUM": 8777.93,
+            "ZINC": 6412.34,
+            "COPPER": 8799.34,
+            "IRON": 2825.66,
+            "STAINLESS": 3546.11,
+            "NICKEL": 5412.44
+        }
+    },
+    {
+        "effectiveDate": "2025-06-12",
+        "prices": {
+            "ALUMINUM": 4278.3,
+            "ZINC": 6373.2,
+            "COPPER": 6734.93,
+            "IRON": 2676.17,
+            "STAINLESS": 7812.41,
+            "NICKEL": 9829.44
+        }
+    },
+    {
+        "effectiveDate": "2025-06-13",
+        "prices": {
+            "ALUMINUM": 5517.89,
+            "ZINC": 7420.6,
+            "COPPER": 5338.48,
+            "IRON": 2696.51,
+            "STAINLESS": 6963.82,
+            "NICKEL": 2142.54
+        }
+    },
+    {
+        "effectiveDate": "2025-06-14",
+        "prices": {
+            "ALUMINUM": 2455.07,
+            "ZINC": 9734.62,
+            "COPPER": 4415.85,
+            "IRON": 6096.86,
+            "STAINLESS": 2214.1,
+            "NICKEL": 6067.01
+        }
+    },
+    {
+        "effectiveDate": "2025-06-15",
+        "prices": {
+            "ALUMINUM": 4561.58,
+            "ZINC": 7019.72,
+            "COPPER": 2636.74,
+            "IRON": 5132.17,
+            "STAINLESS": 8868.62,
+            "NICKEL": 5553.75
+        }
+    },
+    {
+        "effectiveDate": "2025-06-16",
+        "prices": {
+            "ALUMINUM": 9082.02,
+            "ZINC": 2243.21,
+            "COPPER": 9156.19,
+            "IRON": 9653.49,
+            "STAINLESS": 5167.24,
+            "NICKEL": 9276.12
+        }
+    },
+    {
+        "effectiveDate": "2025-06-17",
+        "prices": {
+            "ALUMINUM": 7045.9,
+            "ZINC": 6398.06,
+            "COPPER": 6706.96,
+            "IRON": 6742.29,
+            "STAINLESS": 6113.65,
+            "NICKEL": 9069.97
+        }
+    },
+    {
+        "effectiveDate": "2025-06-18",
+        "prices": {
+            "ALUMINUM": 6479.59,
+            "ZINC": 3330.06,
+            "COPPER": 5329.67,
+            "IRON": 7320.02,
+            "STAINLESS": 7416.25,
+            "NICKEL": 6577.91
+        }
+    },
+    {
+        "effectiveDate": "2025-06-19",
+        "prices": {
+            "ALUMINUM": 5251.43,
+            "ZINC": 8829.74,
+            "COPPER": 3340.74,
+            "IRON": 5923.13,
+            "STAINLESS": 5257.23,
+            "NICKEL": 6476.47
+        }
+    },
+    {
+        "effectiveDate": "2025-06-20",
+        "prices": {
+            "ALUMINUM": 4014.76,
+            "ZINC": 3914.86,
+            "COPPER": 2983.32,
+            "IRON": 7500.32,
+            "STAINLESS": 3610.06,
+            "NICKEL": 8684.91
+        }
+    },
+    {
+        "effectiveDate": "2025-06-21",
+        "prices": {
+            "ALUMINUM": 7346.45,
+            "ZINC": 9561.06,
+            "COPPER": 5665.21,
+            "IRON": 2616.08,
+            "STAINLESS": 4979.51,
+            "NICKEL": 8315.76
+        }
+    },
+    {
+        "effectiveDate": "2025-06-22",
+        "prices": {
+            "ALUMINUM": 2324.12,
+            "ZINC": 7086.93,
+            "COPPER": 4120.03,
+            "IRON": 5461.81,
+            "STAINLESS": 7604.11,
+            "NICKEL": 7705.59
+        }
+    },
+    {
+        "effectiveDate": "2025-06-23",
+        "prices": {
+            "ALUMINUM": 3379.63,
+            "ZINC": 3841.71,
+            "COPPER": 3371.94,
+            "IRON": 7305.71,
+            "STAINLESS": 6221.53,
+            "NICKEL": 7346.52
+        }
+    },
+    {
+        "effectiveDate": "2025-06-24",
+        "prices": {
+            "ALUMINUM": 6199.47,
+            "ZINC": 6843.82,
+            "COPPER": 5439.39,
+            "IRON": 3052.32,
+            "STAINLESS": 7734.31,
+            "NICKEL": 4245.1
+        }
+    },
+    {
+        "effectiveDate": "2025-06-25",
+        "prices": {
+            "ALUMINUM": 5047.7,
+            "ZINC": 7300.93,
+            "COPPER": 5479.95,
+            "IRON": 8532.73,
+            "STAINLESS": 6674.63,
+            "NICKEL": 6384.88
+        }
+    },
+    {
+        "effectiveDate": "2025-06-26",
+        "prices": {
+            "ALUMINUM": 7151.79,
+            "ZINC": 9695.95,
+            "COPPER": 9657.73,
+            "IRON": 9097.64,
+            "STAINLESS": 3643.3,
+            "NICKEL": 6771.18
+        }
+    },
+    {
+        "effectiveDate": "2025-06-27",
+        "prices": {
+            "ALUMINUM": 5050.84,
+            "ZINC": 6754.46,
+            "COPPER": 6844.11,
+            "IRON": 2876.76,
+            "STAINLESS": 8514.76,
+            "NICKEL": 6878.04
+        }
+    },
+    {
+        "effectiveDate": "2025-06-28",
+        "prices": {
+            "ALUMINUM": 9523.47,
+            "ZINC": 4183.59,
+            "COPPER": 4285.91,
+            "IRON": 4317.47,
+            "STAINLESS": 7563.82,
+            "NICKEL": 5849.26
+        }
+    },
+    {
+        "effectiveDate": "2025-06-29",
+        "prices": {
+            "ALUMINUM": 7661.74,
+            "ZINC": 5951.85,
+            "COPPER": 5004.84,
+            "IRON": 4927.81,
+            "STAINLESS": 8122.42,
+            "NICKEL": 7144.65
+        }
+    },
+    {
+        "effectiveDate": "2025-06-30",
+        "prices": {
+            "ALUMINUM": 9183.46,
+            "ZINC": 7464.11,
+            "COPPER": 9223.63,
+            "IRON": 7165.7,
+            "STAINLESS": 6606.76,
+            "NICKEL": 4255.1
+        }
+    },
+    {
+        "effectiveDate": "2025-07-01",
+        "prices": {
+            "ALUMINUM": 4873.19,
+            "ZINC": 8612.66,
+            "COPPER": 8169.72,
+            "IRON": 3075.74,
+            "STAINLESS": 9034.6,
+            "NICKEL": 7868.66
+        }
+    },
+    {
+        "effectiveDate": "2025-07-02",
+        "prices": {
+            "ALUMINUM": 6372.77,
+            "ZINC": 5806.98,
+            "COPPER": 7086.07,
+            "IRON": 3958.48,
+            "STAINLESS": 4581.22,
+            "NICKEL": 4154.53
+        }
+    },
+    {
+        "effectiveDate": "2025-07-03",
+        "prices": {
+            "ALUMINUM": 6308.03,
+            "ZINC": 5277.89,
+            "COPPER": 3670.44,
+            "IRON": 6138.97,
+            "STAINLESS": 5406.13,
+            "NICKEL": 8949.01
+        }
+    },
+    {
+        "effectiveDate": "2025-07-04",
+        "prices": {
+            "ALUMINUM": 4582.86,
+            "ZINC": 9620.4,
+            "COPPER": 5485.29,
+            "IRON": 5845.16,
+            "STAINLESS": 7279.47,
+            "NICKEL": 4478.97
+        }
+    },
+    {
+        "effectiveDate": "2025-07-05",
+        "prices": {
+            "ALUMINUM": 3766.79,
+            "ZINC": 2622.42,
+            "COPPER": 7024.67,
+            "IRON": 8240.82,
+            "STAINLESS": 9195.19,
+            "NICKEL": 6962.0
+        }
+    },
+    {
+        "effectiveDate": "2025-07-06",
+        "prices": {
+            "ALUMINUM": 7346.85,
+            "ZINC": 5319.75,
+            "COPPER": 4994.64,
+            "IRON": 6125.41,
+            "STAINLESS": 7861.44,
+            "NICKEL": 5125.05
+        }
+    },
+    {
+        "effectiveDate": "2025-07-07",
+        "prices": {
+            "ALUMINUM": 5238.16,
+            "ZINC": 7594.29,
+            "COPPER": 6871.43,
+            "IRON": 8597.75,
+            "STAINLESS": 4234.63,
+            "NICKEL": 2024.98
+        }
+    },
+    {
+        "effectiveDate": "2025-07-08",
+        "prices": {
+            "ALUMINUM": 3142.19,
+            "ZINC": 2063.37,
+            "COPPER": 9947.27,
+            "IRON": 3239.11,
+            "STAINLESS": 4173.66,
+            "NICKEL": 8566.98
+        }
+    },
+    {
+        "effectiveDate": "2025-07-09",
+        "prices": {
+            "ALUMINUM": 2974.73,
+            "ZINC": 2826.86,
+            "COPPER": 7242.51,
+            "IRON": 6310.58,
+            "STAINLESS": 9975.2,
+            "NICKEL": 8920.01
+        }
+    },
+    {
+        "effectiveDate": "2025-07-10",
+        "prices": {
+            "ALUMINUM": 6328.16,
+            "ZINC": 4406.02,
+            "COPPER": 6486.67,
+            "IRON": 6840.85,
+            "STAINLESS": 5663.31,
+            "NICKEL": 8761.54
+        }
+    },
+    {
+        "effectiveDate": "2025-07-11",
+        "prices": {
+            "ALUMINUM": 2929.32,
+            "ZINC": 4277.45,
+            "COPPER": 6865.54,
+            "IRON": 4176.52,
+            "STAINLESS": 6722.22,
+            "NICKEL": 3265.29
+        }
+    },
+    {
+        "effectiveDate": "2025-07-12",
+        "prices": {
+            "ALUMINUM": 8901.68,
+            "ZINC": 9648.15,
+            "COPPER": 7622.38,
+            "IRON": 9779.13,
+            "STAINLESS": 7399.55,
+            "NICKEL": 8110.19
+        }
+    },
+    {
+        "effectiveDate": "2025-07-13",
+        "prices": {
+            "ALUMINUM": 4264.5,
+            "ZINC": 9924.92,
+            "COPPER": 2098.85,
+            "IRON": 4892.76,
+            "STAINLESS": 6133.68,
+            "NICKEL": 7991.26
+        }
+    },
+    {
+        "effectiveDate": "2025-07-14",
+        "prices": {
+            "ALUMINUM": 5718.47,
+            "ZINC": 6613.42,
+            "COPPER": 9612.22,
+            "IRON": 3482.67,
+            "STAINLESS": 8546.98,
+            "NICKEL": 5698.72
+        }
+    },
+    {
+        "effectiveDate": "2025-07-15",
+        "prices": {
+            "ALUMINUM": 2240.56,
+            "ZINC": 6442.52,
+            "COPPER": 4688.63,
+            "IRON": 9069.64,
+            "STAINLESS": 8641.53,
+            "NICKEL": 3361.71
+        }
+    },
+    {
+        "effectiveDate": "2025-07-16",
+        "prices": {
+            "ALUMINUM": 7605.7,
+            "ZINC": 8730.04,
+            "COPPER": 2525.9,
+            "IRON": 4238.83,
+            "STAINLESS": 8972.61,
+            "NICKEL": 5802.65
+        }
+    },
+    {
+        "effectiveDate": "2025-07-17",
+        "prices": {
+            "ALUMINUM": 7622.16,
+            "ZINC": 9777.89,
+            "COPPER": 6691.25,
+            "IRON": 7062.79,
+            "STAINLESS": 4890.24,
+            "NICKEL": 9112.03
+        }
+    },
+    {
+        "effectiveDate": "2025-07-18",
+        "prices": {
+            "ALUMINUM": 7876.78,
+            "ZINC": 7592.44,
+            "COPPER": 5273.3,
+            "IRON": 8459.57,
+            "STAINLESS": 3845.55,
+            "NICKEL": 7056.47
+        }
+    },
+    {
+        "effectiveDate": "2025-07-19",
+        "prices": {
+            "ALUMINUM": 7754.86,
+            "ZINC": 5424.81,
+            "COPPER": 6544.15,
+            "IRON": 5133.22,
+            "STAINLESS": 3690.32,
+            "NICKEL": 7416.95
+        }
+    },
+    {
+        "effectiveDate": "2025-07-20",
+        "prices": {
+            "ALUMINUM": 2920.19,
+            "ZINC": 8652.02,
+            "COPPER": 2859.08,
+            "IRON": 8275.64,
+            "STAINLESS": 9827.37,
+            "NICKEL": 2772.37
+        }
+    },
+    {
+        "effectiveDate": "2025-07-21",
+        "prices": {
+            "ALUMINUM": 8275.88,
+            "ZINC": 7018.64,
+            "COPPER": 2199.31,
+            "IRON": 3920.56,
+            "STAINLESS": 2646.27,
+            "NICKEL": 2781.06
+        }
+    },
+    {
+        "effectiveDate": "2025-07-22",
+        "prices": {
+            "ALUMINUM": 3564.12,
+            "ZINC": 5921.41,
+            "COPPER": 5820.98,
+            "IRON": 8069.38,
+            "STAINLESS": 9526.73,
+            "NICKEL": 4586.0
+        }
+    },
+    {
+        "effectiveDate": "2025-07-23",
+        "prices": {
+            "ALUMINUM": 3521.21,
+            "ZINC": 6186.3,
+            "COPPER": 5369.86,
+            "IRON": 9835.04,
+            "STAINLESS": 8732.31,
+            "NICKEL": 9472.12
+        }
+    },
+    {
+        "effectiveDate": "2025-07-24",
+        "prices": {
+            "ALUMINUM": 2664.02,
+            "ZINC": 9693.69,
+            "COPPER": 3908.08,
+            "IRON": 7324.18,
+            "STAINLESS": 7480.7,
+            "NICKEL": 5592.37
+        }
+    },
+    {
+        "effectiveDate": "2025-07-25",
+        "prices": {
+            "ALUMINUM": 3525.87,
+            "ZINC": 3864.71,
+            "COPPER": 2965.5,
+            "IRON": 9889.45,
+            "STAINLESS": 6327.79,
+            "NICKEL": 8899.93
+        }
+    },
+    {
+        "effectiveDate": "2025-07-26",
+        "prices": {
+            "ALUMINUM": 9984.38,
+            "ZINC": 6613.72,
+            "COPPER": 3385.23,
+            "IRON": 9603.17,
+            "STAINLESS": 6583.36,
+            "NICKEL": 7848.52
+        }
+    },
+    {
+        "effectiveDate": "2025-07-27",
+        "prices": {
+            "ALUMINUM": 9730.84,
+            "ZINC": 9658.49,
+            "COPPER": 4969.04,
+            "IRON": 7158.33,
+            "STAINLESS": 6264.61,
+            "NICKEL": 8656.45
+        }
+    },
+    {
+        "effectiveDate": "2025-07-28",
+        "prices": {
+            "ALUMINUM": 3991.92,
+            "ZINC": 5902.12,
+            "COPPER": 3933.64,
+            "IRON": 4769.21,
+            "STAINLESS": 6680.79,
+            "NICKEL": 2762.03
+        }
+    },
+    {
+        "effectiveDate": "2025-07-29",
+        "prices": {
+            "ALUMINUM": 4749.66,
+            "ZINC": 2367.42,
+            "COPPER": 2731.65,
+            "IRON": 7007.26,
+            "STAINLESS": 2621.35,
+            "NICKEL": 4643.56
+        }
+    },
+    {
+        "effectiveDate": "2025-07-30",
+        "prices": {
+            "ALUMINUM": 6184.75,
+            "ZINC": 9541.49,
+            "COPPER": 4597.42,
+            "IRON": 9533.16,
+            "STAINLESS": 6942.29,
+            "NICKEL": 2713.53
+        }
+    },
+    {
+        "effectiveDate": "2025-07-31",
+        "prices": {
+            "ALUMINUM": 7583.89,
+            "ZINC": 3850.44,
+            "COPPER": 3672.46,
+            "IRON": 7841.02,
+            "STAINLESS": 8795.64,
+            "NICKEL": 5484.38
+        }
+    },
+    {
+        "effectiveDate": "2025-08-01",
+        "prices": {
+            "ALUMINUM": 8109.26,
+            "ZINC": 4628.08,
+            "COPPER": 9539.03,
+            "IRON": 5569.75,
+            "STAINLESS": 6121.03,
+            "NICKEL": 9641.74
+        }
+    },
+    {
+        "effectiveDate": "2025-08-02",
+        "prices": {
+            "ALUMINUM": 2108.55,
+            "ZINC": 4410.52,
+            "COPPER": 6383.63,
+            "IRON": 5146.87,
+            "STAINLESS": 7074.58,
+            "NICKEL": 6463.11
+        }
+    },
+    {
+        "effectiveDate": "2025-08-03",
+        "prices": {
+            "ALUMINUM": 9007.58,
+            "ZINC": 2440.95,
+            "COPPER": 6388.89,
+            "IRON": 3780.86,
+            "STAINLESS": 8745.33,
+            "NICKEL": 2560.79
+        }
+    },
+    {
+        "effectiveDate": "2025-08-04",
+        "prices": {
+            "ALUMINUM": 3324.51,
+            "ZINC": 2331.37,
+            "COPPER": 6248.47,
+            "IRON": 7866.0,
+            "STAINLESS": 9870.98,
+            "NICKEL": 7354.85
+        }
+    },
+    {
+        "effectiveDate": "2025-08-05",
+        "prices": {
+            "ALUMINUM": 9484.33,
+            "ZINC": 9858.68,
+            "COPPER": 5025.57,
+            "IRON": 3596.26,
+            "STAINLESS": 4341.45,
+            "NICKEL": 6235.6
+        }
+    },
+    {
+        "effectiveDate": "2025-08-06",
+        "prices": {
+            "ALUMINUM": 6547.54,
+            "ZINC": 6278.07,
+            "COPPER": 4670.64,
+            "IRON": 4790.92,
+            "STAINLESS": 4254.99,
+            "NICKEL": 7303.69
+        }
+    },
+    {
+        "effectiveDate": "2025-08-07",
+        "prices": {
+            "ALUMINUM": 8346.69,
+            "ZINC": 5218.24,
+            "COPPER": 8556.13,
+            "IRON": 7176.27,
+            "STAINLESS": 6016.14,
+            "NICKEL": 3852.19
+        }
+    },
+    {
+        "effectiveDate": "2025-08-08",
+        "prices": {
+            "ALUMINUM": 9167.46,
+            "ZINC": 5821.94,
+            "COPPER": 2248.3,
+            "IRON": 9228.41,
+            "STAINLESS": 5232.79,
+            "NICKEL": 7897.36
+        }
+    },
+    {
+        "effectiveDate": "2025-08-09",
+        "prices": {
+            "ALUMINUM": 8440.11,
+            "ZINC": 8588.77,
+            "COPPER": 8823.28,
+            "IRON": 6501.04,
+            "STAINLESS": 2803.24,
+            "NICKEL": 2343.69
+        }
+    },
+    {
+        "effectiveDate": "2025-08-10",
+        "prices": {
+            "ALUMINUM": 6403.25,
+            "ZINC": 7583.92,
+            "COPPER": 4374.19,
+            "IRON": 8653.14,
+            "STAINLESS": 2951.73,
+            "NICKEL": 2360.38
+        }
+    },
+    {
+        "effectiveDate": "2025-08-11",
+        "prices": {
+            "ALUMINUM": 9622.33,
+            "ZINC": 5606.97,
+            "COPPER": 9594.13,
+            "IRON": 5651.88,
+            "STAINLESS": 3360.99,
+            "NICKEL": 6287.99
+        }
+    },
+    {
+        "effectiveDate": "2025-08-12",
+        "prices": {
+            "ALUMINUM": 5192.02,
+            "ZINC": 5335.78,
+            "COPPER": 3351.41,
+            "IRON": 2419.06,
+            "STAINLESS": 6979.65,
+            "NICKEL": 3453.92
+        }
+    },
+    {
+        "effectiveDate": "2025-08-13",
+        "prices": {
+            "ALUMINUM": 5927.95,
+            "ZINC": 8993.49,
+            "COPPER": 9205.39,
+            "IRON": 2666.42,
+            "STAINLESS": 8765.53,
+            "NICKEL": 4249.03
+        }
+    },
+    {
+        "effectiveDate": "2025-08-14",
+        "prices": {
+            "ALUMINUM": 2605.48,
+            "ZINC": 4905.39,
+            "COPPER": 9289.59,
+            "IRON": 7449.98,
+            "STAINLESS": 4698.41,
+            "NICKEL": 7049.04
+        }
+    },
+    {
+        "effectiveDate": "2025-08-15",
+        "prices": {
+            "ALUMINUM": 3003.26,
+            "ZINC": 6607.19,
+            "COPPER": 5758.07,
+            "IRON": 3474.43,
+            "STAINLESS": 7369.32,
+            "NICKEL": 5757.38
+        }
+    },
+    {
+        "effectiveDate": "2025-08-16",
+        "prices": {
+            "ALUMINUM": 2786.99,
+            "ZINC": 9518.13,
+            "COPPER": 3048.8,
+            "IRON": 8218.8,
+            "STAINLESS": 7254.92,
+            "NICKEL": 9194.67
+        }
+    },
+    {
+        "effectiveDate": "2025-08-17",
+        "prices": {
+            "ALUMINUM": 7330.67,
+            "ZINC": 4145.77,
+            "COPPER": 7870.06,
+            "IRON": 2550.15,
+            "STAINLESS": 3522.83,
+            "NICKEL": 2003.27
+        }
+    },
+    {
+        "effectiveDate": "2025-08-18",
+        "prices": {
+            "ALUMINUM": 2233.53,
+            "ZINC": 4643.68,
+            "COPPER": 9213.73,
+            "IRON": 8351.41,
+            "STAINLESS": 5481.83,
+            "NICKEL": 5404.52
+        }
+    },
+    {
+        "effectiveDate": "2025-08-19",
+        "prices": {
+            "ALUMINUM": 8367.79,
+            "ZINC": 8968.3,
+            "COPPER": 2176.66,
+            "IRON": 9892.54,
+            "STAINLESS": 5500.35,
+            "NICKEL": 3521.92
+        }
+    },
+    {
+        "effectiveDate": "2025-08-20",
+        "prices": {
+            "ALUMINUM": 5825.79,
+            "ZINC": 7883.25,
+            "COPPER": 2260.94,
+            "IRON": 9007.31,
+            "STAINLESS": 5270.11,
+            "NICKEL": 9764.5
+        }
+    },
+    {
+        "effectiveDate": "2025-08-21",
+        "prices": {
+            "ALUMINUM": 3760.91,
+            "ZINC": 5560.42,
+            "COPPER": 8336.75,
+            "IRON": 7065.63,
+            "STAINLESS": 6803.45,
+            "NICKEL": 3456.03
+        }
+    },
+    {
+        "effectiveDate": "2025-08-22",
+        "prices": {
+            "ALUMINUM": 2594.54,
+            "ZINC": 4621.06,
+            "COPPER": 9044.35,
+            "IRON": 6260.32,
+            "STAINLESS": 9446.76,
+            "NICKEL": 8206.87
+        }
+    },
+    {
+        "effectiveDate": "2025-08-23",
+        "prices": {
+            "ALUMINUM": 4634.18,
+            "ZINC": 4095.14,
+            "COPPER": 5032.17,
+            "IRON": 6415.86,
+            "STAINLESS": 3790.23,
+            "NICKEL": 6476.59
+        }
+    },
+    {
+        "effectiveDate": "2025-08-24",
+        "prices": {
+            "ALUMINUM": 4054.8,
+            "ZINC": 3929.29,
+            "COPPER": 5505.64,
+            "IRON": 3202.41,
+            "STAINLESS": 3709.62,
+            "NICKEL": 9450.34
+        }
+    },
+    {
+        "effectiveDate": "2025-08-25",
+        "prices": {
+            "ALUMINUM": 3144.66,
+            "ZINC": 2181.9,
+            "COPPER": 6097.18,
+            "IRON": 9465.01,
+            "STAINLESS": 5539.0,
+            "NICKEL": 8632.95
+        }
+    },
+    {
+        "effectiveDate": "2025-08-26",
+        "prices": {
+            "ALUMINUM": 9931.39,
+            "ZINC": 8149.85,
+            "COPPER": 5882.53,
+            "IRON": 8147.99,
+            "STAINLESS": 2044.37,
+            "NICKEL": 4477.92
+        }
+    },
+    {
+        "effectiveDate": "2025-08-27",
+        "prices": {
+            "ALUMINUM": 9204.4,
+            "ZINC": 4067.13,
+            "COPPER": 4302.68,
+            "IRON": 3718.93,
+            "STAINLESS": 5037.17,
+            "NICKEL": 3684.2
+        }
+    },
+    {
+        "effectiveDate": "2025-08-28",
+        "prices": {
+            "ALUMINUM": 2147.03,
+            "ZINC": 7412.01,
+            "COPPER": 4113.51,
+            "IRON": 9383.1,
+            "STAINLESS": 8492.02,
+            "NICKEL": 2093.2
+        }
+    },
+    {
+        "effectiveDate": "2025-08-29",
+        "prices": {
+            "ALUMINUM": 3215.69,
+            "ZINC": 3468.62,
+            "COPPER": 8008.38,
+            "IRON": 8323.13,
+            "STAINLESS": 3639.54,
+            "NICKEL": 9455.51
+        }
+    },
+    {
+        "effectiveDate": "2025-08-30",
+        "prices": {
+            "ALUMINUM": 4210.41,
+            "ZINC": 4730.35,
+            "COPPER": 5048.76,
+            "IRON": 5806.15,
+            "STAINLESS": 7934.34,
+            "NICKEL": 9435.91
+        }
+    },
+    {
+        "effectiveDate": "2025-08-31",
+        "prices": {
+            "ALUMINUM": 2245.27,
+            "ZINC": 4763.84,
+            "COPPER": 5554.79,
+            "IRON": 3860.15,
+            "STAINLESS": 8697.49,
+            "NICKEL": 6256.17
+        }
+    },
+    {
+        "effectiveDate": "2025-09-01",
+        "prices": {
+            "ALUMINUM": 9380.4,
+            "ZINC": 5406.39,
+            "COPPER": 3078.85,
+            "IRON": 5227.64,
+            "STAINLESS": 2507.81,
+            "NICKEL": 7124.67
+        }
+    },
+    {
+        "effectiveDate": "2025-09-02",
+        "prices": {
+            "ALUMINUM": 6446.3,
+            "ZINC": 7896.45,
+            "COPPER": 6349.51,
+            "IRON": 2994.26,
+            "STAINLESS": 8750.48,
+            "NICKEL": 3813.85
+        }
+    },
+    {
+        "effectiveDate": "2025-09-03",
+        "prices": {
+            "ALUMINUM": 9038.97,
+            "ZINC": 4261.69,
+            "COPPER": 3685.34,
+            "IRON": 3203.42,
+            "STAINLESS": 3670.75,
+            "NICKEL": 7637.44
+        }
+    },
+    {
+        "effectiveDate": "2025-09-04",
+        "prices": {
+            "ALUMINUM": 8683.7,
+            "ZINC": 9938.22,
+            "COPPER": 5236.26,
+            "IRON": 4635.41,
+            "STAINLESS": 4185.05,
+            "NICKEL": 2347.77
+        }
+    },
+    {
+        "effectiveDate": "2025-09-05",
+        "prices": {
+            "ALUMINUM": 8985.25,
+            "ZINC": 6632.34,
+            "COPPER": 4671.78,
+            "IRON": 7922.17,
+            "STAINLESS": 5382.87,
+            "NICKEL": 7235.6
+        }
+    },
+    {
+        "effectiveDate": "2025-09-06",
+        "prices": {
+            "ALUMINUM": 6878.14,
+            "ZINC": 6669.44,
+            "COPPER": 7992.31,
+            "IRON": 3333.36,
+            "STAINLESS": 4967.7,
+            "NICKEL": 6424.79
+        }
+    },
+    {
+        "effectiveDate": "2025-09-07",
+        "prices": {
+            "ALUMINUM": 2855.82,
+            "ZINC": 6271.71,
+            "COPPER": 5541.75,
+            "IRON": 8753.79,
+            "STAINLESS": 6414.19,
+            "NICKEL": 2170.49
+        }
+    },
+    {
+        "effectiveDate": "2025-09-08",
+        "prices": {
+            "ALUMINUM": 8875.54,
+            "ZINC": 7933.39,
+            "COPPER": 8879.84,
+            "IRON": 9072.23,
+            "STAINLESS": 4266.17,
+            "NICKEL": 7033.5
+        }
+    },
+    {
+        "effectiveDate": "2025-09-09",
+        "prices": {
+            "ALUMINUM": 4102.11,
+            "ZINC": 3198.26,
+            "COPPER": 7251.13,
+            "IRON": 9415.7,
+            "STAINLESS": 4070.39,
+            "NICKEL": 8729.08
+        }
+    },
+    {
+        "effectiveDate": "2025-09-10",
+        "prices": {
+            "ALUMINUM": 8898.07,
+            "ZINC": 3382.11,
+            "COPPER": 2155.0,
+            "IRON": 9850.8,
+            "STAINLESS": 6340.13,
+            "NICKEL": 2080.16
+        }
+    },
+    {
+        "effectiveDate": "2025-09-11",
+        "prices": {
+            "ALUMINUM": 2735.17,
+            "ZINC": 6955.72,
+            "COPPER": 2052.49,
+            "IRON": 4885.31,
+            "STAINLESS": 2125.97,
+            "NICKEL": 2463.57
+        }
+    },
+    {
+        "effectiveDate": "2025-09-12",
+        "prices": {
+            "ALUMINUM": 2664.42,
+            "ZINC": 7177.22,
+            "COPPER": 3452.78,
+            "IRON": 2145.71,
+            "STAINLESS": 7823.09,
+            "NICKEL": 6677.87
+        }
+    },
+    {
+        "effectiveDate": "2025-09-13",
+        "prices": {
+            "ALUMINUM": 7237.25,
+            "ZINC": 7833.46,
+            "COPPER": 2264.07,
+            "IRON": 6741.96,
+            "STAINLESS": 7863.23,
+            "NICKEL": 3135.32
+        }
+    },
+    {
+        "effectiveDate": "2025-09-14",
+        "prices": {
+            "ALUMINUM": 6067.12,
+            "ZINC": 8909.17,
+            "COPPER": 8949.09,
+            "IRON": 4502.98,
+            "STAINLESS": 7128.26,
+            "NICKEL": 9299.09
+        }
+    },
+    {
+        "effectiveDate": "2025-09-15",
+        "prices": {
+            "ALUMINUM": 2496.33,
+            "ZINC": 5351.73,
+            "COPPER": 2100.83,
+            "IRON": 4298.95,
+            "STAINLESS": 7283.92,
+            "NICKEL": 5650.92
+        }
+    },
+    {
+        "effectiveDate": "2025-09-16",
+        "prices": {
+            "ALUMINUM": 2329.29,
+            "ZINC": 8230.72,
+            "COPPER": 9209.87,
+            "IRON": 9222.83,
+            "STAINLESS": 3395.01,
+            "NICKEL": 9239.77
+        }
+    },
+    {
+        "effectiveDate": "2025-09-17",
+        "prices": {
+            "ALUMINUM": 5263.93,
+            "ZINC": 7871.33,
+            "COPPER": 4658.72,
+            "IRON": 9549.97,
+            "STAINLESS": 6005.29,
+            "NICKEL": 8020.96
+        }
+    },
+    {
+        "effectiveDate": "2025-09-18",
+        "prices": {
+            "ALUMINUM": 9024.83,
+            "ZINC": 5470.41,
+            "COPPER": 8348.67,
+            "IRON": 5490.69,
+            "STAINLESS": 7562.55,
+            "NICKEL": 9808.26
+        }
+    },
+    {
+        "effectiveDate": "2025-09-19",
+        "prices": {
+            "ALUMINUM": 6509.49,
+            "ZINC": 3275.32,
+            "COPPER": 4066.43,
+            "IRON": 2434.88,
+            "STAINLESS": 8657.5,
+            "NICKEL": 9639.99
+        }
+    },
+    {
+        "effectiveDate": "2025-09-20",
+        "prices": {
+            "ALUMINUM": 5133.03,
+            "ZINC": 3656.97,
+            "COPPER": 5371.94,
+            "IRON": 6425.9,
+            "STAINLESS": 2598.23,
+            "NICKEL": 3960.52
+        }
+    },
+    {
+        "effectiveDate": "2025-09-21",
+        "prices": {
+            "ALUMINUM": 2093.15,
+            "ZINC": 2727.94,
+            "COPPER": 2630.4,
+            "IRON": 6120.63,
+            "STAINLESS": 8096.11,
+            "NICKEL": 2303.71
+        }
+    },
+    {
+        "effectiveDate": "2025-09-22",
+        "prices": {
+            "ALUMINUM": 5709.36,
+            "ZINC": 7791.21,
+            "COPPER": 4530.83,
+            "IRON": 5474.23,
+            "STAINLESS": 9784.18,
+            "NICKEL": 4474.3
+        }
+    },
+    {
+        "effectiveDate": "2025-09-23",
+        "prices": {
+            "ALUMINUM": 7166.23,
+            "ZINC": 6483.29,
+            "COPPER": 8133.36,
+            "IRON": 2629.4,
+            "STAINLESS": 3964.31,
+            "NICKEL": 5144.76
+        }
+    },
+    {
+        "effectiveDate": "2025-09-24",
+        "prices": {
+            "ALUMINUM": 4839.8,
+            "ZINC": 8013.3,
+            "COPPER": 6510.49,
+            "IRON": 7897.81,
+            "STAINLESS": 5657.86,
+            "NICKEL": 9334.63
+        }
+    },
+    {
+        "effectiveDate": "2025-09-25",
+        "prices": {
+            "ALUMINUM": 8354.84,
+            "ZINC": 4153.71,
+            "COPPER": 9540.4,
+            "IRON": 9313.33,
+            "STAINLESS": 2594.96,
+            "NICKEL": 3107.7
+        }
+    },
+    {
+        "effectiveDate": "2025-09-26",
+        "prices": {
+            "ALUMINUM": 3363.58,
+            "ZINC": 6067.74,
+            "COPPER": 3557.87,
+            "IRON": 2417.1,
+            "STAINLESS": 4092.37,
+            "NICKEL": 4435.19
+        }
+    },
+    {
+        "effectiveDate": "2025-09-27",
+        "prices": {
+            "ALUMINUM": 2145.28,
+            "ZINC": 8463.66,
+            "COPPER": 5712.82,
+            "IRON": 4627.27,
+            "STAINLESS": 5706.54,
+            "NICKEL": 9976.72
+        }
+    },
+    {
+        "effectiveDate": "2025-09-28",
+        "prices": {
+            "ALUMINUM": 5910.03,
+            "ZINC": 9767.71,
+            "COPPER": 9083.92,
+            "IRON": 3062.17,
+            "STAINLESS": 2693.81,
+            "NICKEL": 9205.97
+        }
+    },
+    {
+        "effectiveDate": "2025-09-29",
+        "prices": {
+            "ALUMINUM": 3251.32,
+            "ZINC": 7590.58,
+            "COPPER": 4378.02,
+            "IRON": 9497.09,
+            "STAINLESS": 2613.32,
+            "NICKEL": 8149.01
+        }
+    },
+    {
+        "effectiveDate": "2025-09-30",
+        "prices": {
+            "ALUMINUM": 5972.73,
+            "ZINC": 3533.35,
+            "COPPER": 3032.38,
+            "IRON": 3272.7,
+            "STAINLESS": 2895.49,
+            "NICKEL": 5640.54
+        }
+    },
+    {
+        "effectiveDate": "2025-10-01",
+        "prices": {
+            "ALUMINUM": 5284.33,
+            "ZINC": 3426.01,
+            "COPPER": 8590.0,
+            "IRON": 8939.61,
+            "STAINLESS": 5077.58,
+            "NICKEL": 7421.06
+        }
+    },
+    {
+        "effectiveDate": "2025-10-02",
+        "prices": {
+            "ALUMINUM": 9423.91,
+            "ZINC": 7101.17,
+            "COPPER": 4044.62,
+            "IRON": 8451.86,
+            "STAINLESS": 8688.44,
+            "NICKEL": 3035.87
+        }
+    },
+    {
+        "effectiveDate": "2025-10-03",
+        "prices": {
+            "ALUMINUM": 7958.69,
+            "ZINC": 7593.06,
+            "COPPER": 5797.74,
+            "IRON": 6017.42,
+            "STAINLESS": 3658.45,
+            "NICKEL": 3145.86
+        }
+    },
+    {
+        "effectiveDate": "2025-10-04",
+        "prices": {
+            "ALUMINUM": 7270.15,
+            "ZINC": 6974.54,
+            "COPPER": 7833.1,
+            "IRON": 9991.78,
+            "STAINLESS": 8266.91,
+            "NICKEL": 2983.38
+        }
+    },
+    {
+        "effectiveDate": "2025-10-05",
+        "prices": {
+            "ALUMINUM": 5460.13,
+            "ZINC": 9037.73,
+            "COPPER": 6070.76,
+            "IRON": 7268.58,
+            "STAINLESS": 4791.55,
+            "NICKEL": 7523.57
+        }
+    },
+    {
+        "effectiveDate": "2025-10-06",
+        "prices": {
+            "ALUMINUM": 2264.08,
+            "ZINC": 2257.82,
+            "COPPER": 8537.69,
+            "IRON": 7366.23,
+            "STAINLESS": 4216.22,
+            "NICKEL": 8055.44
+        }
+    },
+    {
+        "effectiveDate": "2025-10-07",
+        "prices": {
+            "ALUMINUM": 9292.22,
+            "ZINC": 8658.77,
+            "COPPER": 8745.42,
+            "IRON": 3837.51,
+            "STAINLESS": 8680.56,
+            "NICKEL": 8657.43
+        }
+    },
+    {
+        "effectiveDate": "2025-10-08",
+        "prices": {
+            "ALUMINUM": 9718.6,
+            "ZINC": 2911.23,
+            "COPPER": 8051.46,
+            "IRON": 7408.71,
+            "STAINLESS": 6563.71,
+            "NICKEL": 5587.72
+        }
+    },
+    {
+        "effectiveDate": "2025-10-09",
+        "prices": {
+            "ALUMINUM": 8856.08,
+            "ZINC": 3648.87,
+            "COPPER": 6359.27,
+            "IRON": 6159.32,
+            "STAINLESS": 9906.27,
+            "NICKEL": 2916.49
+        }
+    },
+    {
+        "effectiveDate": "2025-10-10",
+        "prices": {
+            "ALUMINUM": 8415.78,
+            "ZINC": 8486.02,
+            "COPPER": 8861.68,
+            "IRON": 9111.12,
+            "STAINLESS": 3398.14,
+            "NICKEL": 4586.98
+        }
+    },
+    {
+        "effectiveDate": "2025-10-11",
+        "prices": {
+            "ALUMINUM": 2379.21,
+            "ZINC": 6755.2,
+            "COPPER": 7223.23,
+            "IRON": 8939.25,
+            "STAINLESS": 4441.61,
+            "NICKEL": 5973.48
+        }
+    },
+    {
+        "effectiveDate": "2025-10-12",
+        "prices": {
+            "ALUMINUM": 7983.04,
+            "ZINC": 3789.4,
+            "COPPER": 3800.22,
+            "IRON": 5827.09,
+            "STAINLESS": 8691.19,
+            "NICKEL": 2410.53
+        }
+    },
+    {
+        "effectiveDate": "2025-10-13",
+        "prices": {
+            "ALUMINUM": 9800.81,
+            "ZINC": 5884.59,
+            "COPPER": 5857.95,
+            "IRON": 8618.46,
+            "STAINLESS": 4805.35,
+            "NICKEL": 5024.35
+        }
+    },
+    {
+        "effectiveDate": "2025-10-14",
+        "prices": {
+            "ALUMINUM": 3317.33,
+            "ZINC": 4400.97,
+            "COPPER": 7200.07,
+            "IRON": 5157.31,
+            "STAINLESS": 5122.7,
+            "NICKEL": 8678.38
+        }
+    },
+    {
+        "effectiveDate": "2025-10-15",
+        "prices": {
+            "ALUMINUM": 7147.14,
+            "ZINC": 3228.1,
+            "COPPER": 7327.12,
+            "IRON": 7252.5,
+            "STAINLESS": 9779.24,
+            "NICKEL": 8249.4
+        }
+    },
+    {
+        "effectiveDate": "2025-10-16",
+        "prices": {
+            "ALUMINUM": 2779.19,
+            "ZINC": 7955.7,
+            "COPPER": 7156.13,
+            "IRON": 5815.05,
+            "STAINLESS": 4473.78,
+            "NICKEL": 9007.04
+        }
+    },
+    {
+        "effectiveDate": "2025-10-17",
+        "prices": {
+            "ALUMINUM": 8737.45,
+            "ZINC": 5787.14,
+            "COPPER": 4751.92,
+            "IRON": 2714.03,
+            "STAINLESS": 8128.11,
+            "NICKEL": 4701.4
+        }
+    },
+    {
+        "effectiveDate": "2025-10-18",
+        "prices": {
+            "ALUMINUM": 7818.1,
+            "ZINC": 7581.11,
+            "COPPER": 6455.68,
+            "IRON": 7707.69,
+            "STAINLESS": 8699.74,
+            "NICKEL": 4922.69
+        }
+    },
+    {
+        "effectiveDate": "2025-10-19",
+        "prices": {
+            "ALUMINUM": 2375.42,
+            "ZINC": 3145.33,
+            "COPPER": 8172.91,
+            "IRON": 5013.39,
+            "STAINLESS": 8552.32,
+            "NICKEL": 4104.38
+        }
+    },
+    {
+        "effectiveDate": "2025-10-20",
+        "prices": {
+            "ALUMINUM": 5292.29,
+            "ZINC": 8985.43,
+            "COPPER": 9942.83,
+            "IRON": 4708.71,
+            "STAINLESS": 6450.46,
+            "NICKEL": 4187.07
+        }
+    },
+    {
+        "effectiveDate": "2025-10-21",
+        "prices": {
+            "ALUMINUM": 3864.25,
+            "ZINC": 5749.91,
+            "COPPER": 5144.22,
+            "IRON": 4596.45,
+            "STAINLESS": 9455.0,
+            "NICKEL": 7811.93
+        }
+    },
+    {
+        "effectiveDate": "2025-10-22",
+        "prices": {
+            "ALUMINUM": 2583.04,
+            "ZINC": 4153.65,
+            "COPPER": 5293.72,
+            "IRON": 4110.0,
+            "STAINLESS": 9482.46,
+            "NICKEL": 8363.37
+        }
+    },
+    {
+        "effectiveDate": "2025-10-23",
+        "prices": {
+            "ALUMINUM": 5270.14,
+            "ZINC": 7333.98,
+            "COPPER": 7114.11,
+            "IRON": 2165.06,
+            "STAINLESS": 9975.89,
+            "NICKEL": 8258.15
+        }
+    },
+    {
+        "effectiveDate": "2025-10-24",
+        "prices": {
+            "ALUMINUM": 6981.77,
+            "ZINC": 3235.55,
+            "COPPER": 5170.12,
+            "IRON": 2361.53,
+            "STAINLESS": 3102.23,
+            "NICKEL": 6889.04
+        }
+    },
+    {
+        "effectiveDate": "2025-10-25",
+        "prices": {
+            "ALUMINUM": 9080.02,
+            "ZINC": 4228.62,
+            "COPPER": 3158.83,
+            "IRON": 9857.95,
+            "STAINLESS": 3367.46,
+            "NICKEL": 2978.05
+        }
+    },
+    {
+        "effectiveDate": "2025-10-26",
+        "prices": {
+            "ALUMINUM": 9867.64,
+            "ZINC": 4602.17,
+            "COPPER": 9941.83,
+            "IRON": 6476.06,
+            "STAINLESS": 5541.21,
+            "NICKEL": 2646.15
+        }
+    },
+    {
+        "effectiveDate": "2025-10-27",
+        "prices": {
+            "ALUMINUM": 5286.55,
+            "ZINC": 9039.18,
+            "COPPER": 5126.93,
+            "IRON": 9536.17,
+            "STAINLESS": 9374.45,
+            "NICKEL": 3840.32
+        }
+    },
+    {
+        "effectiveDate": "2025-10-28",
+        "prices": {
+            "ALUMINUM": 4076.16,
+            "ZINC": 7171.49,
+            "COPPER": 4038.58,
+            "IRON": 4187.77,
+            "STAINLESS": 4198.04,
+            "NICKEL": 8692.91
+        }
+    },
+    {
+        "effectiveDate": "2025-10-29",
+        "prices": {
+            "ALUMINUM": 3556.92,
+            "ZINC": 6567.77,
+            "COPPER": 7439.9,
+            "IRON": 3497.62,
+            "STAINLESS": 6320.52,
+            "NICKEL": 6888.86
+        }
+    },
+    {
+        "effectiveDate": "2025-10-30",
+        "prices": {
+            "ALUMINUM": 2466.17,
+            "ZINC": 7252.23,
+            "COPPER": 4213.9,
+            "IRON": 7751.29,
+            "STAINLESS": 8940.39,
+            "NICKEL": 2788.57
+        }
+    },
+    {
+        "effectiveDate": "2025-10-31",
+        "prices": {
+            "ALUMINUM": 6061.32,
+            "ZINC": 2381.69,
+            "COPPER": 2294.78,
+            "IRON": 2262.81,
+            "STAINLESS": 2426.44,
+            "NICKEL": 3776.94
+        }
+    },
+    {
+        "effectiveDate": "2025-11-01",
+        "prices": {
+            "ALUMINUM": 2283.27,
+            "ZINC": 4431.54,
+            "COPPER": 7416.31,
+            "IRON": 3670.73,
+            "STAINLESS": 6508.06,
+            "NICKEL": 5855.2
+        }
+    },
+    {
+        "effectiveDate": "2025-11-02",
+        "prices": {
+            "ALUMINUM": 8654.77,
+            "ZINC": 3823.06,
+            "COPPER": 5673.45,
+            "IRON": 7216.31,
+            "STAINLESS": 7868.29,
+            "NICKEL": 6719.01
+        }
+    },
+    {
+        "effectiveDate": "2025-11-03",
+        "prices": {
+            "ALUMINUM": 5494.08,
+            "ZINC": 5654.24,
+            "COPPER": 9330.12,
+            "IRON": 5247.11,
+            "STAINLESS": 8356.14,
+            "NICKEL": 9033.46
+        }
+    },
+    {
+        "effectiveDate": "2025-11-04",
+        "prices": {
+            "ALUMINUM": 8854.89,
+            "ZINC": 7853.26,
+            "COPPER": 3975.62,
+            "IRON": 3108.84,
+            "STAINLESS": 8094.5,
+            "NICKEL": 8580.02
+        }
+    },
+    {
+        "effectiveDate": "2025-11-05",
+        "prices": {
+            "ALUMINUM": 9674.64,
+            "ZINC": 2380.39,
+            "COPPER": 2621.55,
+            "IRON": 5122.35,
+            "STAINLESS": 2803.62,
+            "NICKEL": 2115.2
+        }
+    },
+    {
+        "effectiveDate": "2025-11-06",
+        "prices": {
+            "ALUMINUM": 9103.82,
+            "ZINC": 4222.97,
+            "COPPER": 4660.66,
+            "IRON": 8582.67,
+            "STAINLESS": 9326.75,
+            "NICKEL": 2812.22
+        }
+    },
+    {
+        "effectiveDate": "2025-11-07",
+        "prices": {
+            "ALUMINUM": 9755.36,
+            "ZINC": 9238.22,
+            "COPPER": 5407.37,
+            "IRON": 9810.06,
+            "STAINLESS": 2866.96,
+            "NICKEL": 9624.59
+        }
+    },
+    {
+        "effectiveDate": "2025-11-08",
+        "prices": {
+            "ALUMINUM": 5673.19,
+            "ZINC": 3516.62,
+            "COPPER": 6477.26,
+            "IRON": 3745.33,
+            "STAINLESS": 3036.99,
+            "NICKEL": 6465.98
+        }
+    },
+    {
+        "effectiveDate": "2025-11-09",
+        "prices": {
+            "ALUMINUM": 5490.71,
+            "ZINC": 7076.22,
+            "COPPER": 4095.5,
+            "IRON": 8665.31,
+            "STAINLESS": 7524.6,
+            "NICKEL": 7930.12
+        }
+    },
+    {
+        "effectiveDate": "2025-11-10",
+        "prices": {
+            "ALUMINUM": 4435.13,
+            "ZINC": 6034.77,
+            "COPPER": 4454.66,
+            "IRON": 8666.29,
+            "STAINLESS": 8959.55,
+            "NICKEL": 3891.57
+        }
+    },
+    {
+        "effectiveDate": "2025-11-11",
+        "prices": {
+            "ALUMINUM": 3149.96,
+            "ZINC": 7817.49,
+            "COPPER": 5068.9,
+            "IRON": 6954.41,
+            "STAINLESS": 5764.75,
+            "NICKEL": 4670.3
+        }
+    },
+    {
+        "effectiveDate": "2025-11-12",
+        "prices": {
+            "ALUMINUM": 6173.22,
+            "ZINC": 4682.73,
+            "COPPER": 2403.25,
+            "IRON": 6432.93,
+            "STAINLESS": 9958.87,
+            "NICKEL": 2219.85
+        }
+    },
+    {
+        "effectiveDate": "2025-11-13",
+        "prices": {
+            "ALUMINUM": 3265.78,
+            "ZINC": 3138.24,
+            "COPPER": 3770.27,
+            "IRON": 6951.19,
+            "STAINLESS": 6542.14,
+            "NICKEL": 8523.64
+        }
+    },
+    {
+        "effectiveDate": "2025-11-14",
+        "prices": {
+            "ALUMINUM": 7904.07,
+            "ZINC": 6609.07,
+            "COPPER": 4460.39,
+            "IRON": 3205.86,
+            "STAINLESS": 4964.84,
+            "NICKEL": 8107.22
+        }
+    },
+    {
+        "effectiveDate": "2025-11-15",
+        "prices": {
+            "ALUMINUM": 5860.85,
+            "ZINC": 9203.14,
+            "COPPER": 8643.44,
+            "IRON": 9707.5,
+            "STAINLESS": 7810.79,
+            "NICKEL": 8819.69
+        }
+    },
+    {
+        "effectiveDate": "2025-11-16",
+        "prices": {
+            "ALUMINUM": 5528.9,
+            "ZINC": 2421.81,
+            "COPPER": 7850.0,
+            "IRON": 5201.14,
+            "STAINLESS": 5654.33,
+            "NICKEL": 3999.51
+        }
+    },
+    {
+        "effectiveDate": "2025-11-17",
+        "prices": {
+            "ALUMINUM": 8165.5,
+            "ZINC": 3539.01,
+            "COPPER": 3293.26,
+            "IRON": 7920.04,
+            "STAINLESS": 3334.33,
+            "NICKEL": 6573.95
+        }
+    },
+    {
+        "effectiveDate": "2025-11-18",
+        "prices": {
+            "ALUMINUM": 5490.21,
+            "ZINC": 9652.81,
+            "COPPER": 7938.27,
+            "IRON": 3906.71,
+            "STAINLESS": 5974.73,
+            "NICKEL": 7999.61
+        }
+    },
+    {
+        "effectiveDate": "2025-11-19",
+        "prices": {
+            "ALUMINUM": 9432.9,
+            "ZINC": 9389.31,
+            "COPPER": 7859.73,
+            "IRON": 9741.35,
+            "STAINLESS": 7482.59,
+            "NICKEL": 6764.16
+        }
+    },
+    {
+        "effectiveDate": "2025-11-20",
+        "prices": {
+            "ALUMINUM": 7479.33,
+            "ZINC": 6924.7,
+            "COPPER": 7985.17,
+            "IRON": 3963.96,
+            "STAINLESS": 9502.54,
+            "NICKEL": 9406.39
+        }
+    },
+    {
+        "effectiveDate": "2025-11-21",
+        "prices": {
+            "ALUMINUM": 5145.37,
+            "ZINC": 9645.6,
+            "COPPER": 7121.89,
+            "IRON": 4558.75,
+            "STAINLESS": 5554.02,
+            "NICKEL": 4946.77
+        }
+    },
+    {
+        "effectiveDate": "2025-11-22",
+        "prices": {
+            "ALUMINUM": 4946.73,
+            "ZINC": 4361.78,
+            "COPPER": 7607.24,
+            "IRON": 6225.67,
+            "STAINLESS": 5328.97,
+            "NICKEL": 8810.64
+        }
+    },
+    {
+        "effectiveDate": "2025-11-23",
+        "prices": {
+            "ALUMINUM": 4506.28,
+            "ZINC": 5447.68,
+            "COPPER": 2647.7,
+            "IRON": 8252.5,
+            "STAINLESS": 7136.23,
+            "NICKEL": 2752.15
+        }
+    },
+    {
+        "effectiveDate": "2025-11-24",
+        "prices": {
+            "ALUMINUM": 6496.46,
+            "ZINC": 5555.61,
+            "COPPER": 7387.77,
+            "IRON": 6144.28,
+            "STAINLESS": 2111.19,
+            "NICKEL": 3287.56
+        }
+    },
+    {
+        "effectiveDate": "2025-11-25",
+        "prices": {
+            "ALUMINUM": 6683.27,
+            "ZINC": 2785.88,
+            "COPPER": 9983.36,
+            "IRON": 3035.3,
+            "STAINLESS": 2422.81,
+            "NICKEL": 2421.96
+        }
+    },
+    {
+        "effectiveDate": "2025-11-26",
+        "prices": {
+            "ALUMINUM": 6023.57,
+            "ZINC": 3244.14,
+            "COPPER": 6589.05,
+            "IRON": 2830.56,
+            "STAINLESS": 6684.51,
+            "NICKEL": 7062.12
+        }
+    },
+    {
+        "effectiveDate": "2025-11-27",
+        "prices": {
+            "ALUMINUM": 9824.44,
+            "ZINC": 8861.99,
+            "COPPER": 9809.32,
+            "IRON": 9304.68,
+            "STAINLESS": 2869.37,
+            "NICKEL": 7033.82
+        }
+    },
+    {
+        "effectiveDate": "2025-11-28",
+        "prices": {
+            "ALUMINUM": 8252.9,
+            "ZINC": 3743.99,
+            "COPPER": 9906.89,
+            "IRON": 4799.13,
+            "STAINLESS": 5864.11,
+            "NICKEL": 7324.93
+        }
+    },
+    {
+        "effectiveDate": "2025-11-29",
+        "prices": {
+            "ALUMINUM": 9039.26,
+            "ZINC": 3075.45,
+            "COPPER": 7960.36,
+            "IRON": 2730.22,
+            "STAINLESS": 4965.32,
+            "NICKEL": 6861.22
+        }
+    },
+    {
+        "effectiveDate": "2025-11-30",
+        "prices": {
+            "ALUMINUM": 6473.17,
+            "ZINC": 2996.56,
+            "COPPER": 2405.46,
+            "IRON": 9749.11,
+            "STAINLESS": 7516.62,
+            "NICKEL": 3395.59
+        }
+    },
+    {
+        "effectiveDate": "2025-12-01",
+        "prices": {
+            "ALUMINUM": 8634.46,
+            "ZINC": 7694.84,
+            "COPPER": 7958.07,
+            "IRON": 6935.5,
+            "STAINLESS": 8348.87,
+            "NICKEL": 6347.71
+        }
+    },
+    {
+        "effectiveDate": "2025-12-02",
+        "prices": {
+            "ALUMINUM": 8948.55,
+            "ZINC": 7116.54,
+            "COPPER": 9072.5,
+            "IRON": 7308.36,
+            "STAINLESS": 8191.86,
+            "NICKEL": 3327.73
+        }
+    },
+    {
+        "effectiveDate": "2025-12-03",
+        "prices": {
+            "ALUMINUM": 2179.48,
+            "ZINC": 5674.46,
+            "COPPER": 7182.02,
+            "IRON": 7655.44,
+            "STAINLESS": 6128.59,
+            "NICKEL": 5194.76
+        }
+    },
+    {
+        "effectiveDate": "2025-12-04",
+        "prices": {
+            "ALUMINUM": 9257.56,
+            "ZINC": 5740.33,
+            "COPPER": 4055.01,
+            "IRON": 6886.83,
+            "STAINLESS": 7923.27,
+            "NICKEL": 5142.06
+        }
+    },
+    {
+        "effectiveDate": "2025-12-05",
+        "prices": {
+            "ALUMINUM": 8033.55,
+            "ZINC": 8239.88,
+            "COPPER": 3463.5,
+            "IRON": 8611.27,
+            "STAINLESS": 4436.67,
+            "NICKEL": 3442.62
+        }
+    },
+    {
+        "effectiveDate": "2025-12-06",
+        "prices": {
+            "ALUMINUM": 3403.65,
+            "ZINC": 6619.8,
+            "COPPER": 3776.1,
+            "IRON": 2720.66,
+            "STAINLESS": 5725.89,
+            "NICKEL": 9646.31
+        }
+    },
+    {
+        "effectiveDate": "2025-12-07",
+        "prices": {
+            "ALUMINUM": 9238.71,
+            "ZINC": 3310.37,
+            "COPPER": 8079.41,
+            "IRON": 4965.58,
+            "STAINLESS": 8357.76,
+            "NICKEL": 4890.17
+        }
+    },
+    {
+        "effectiveDate": "2025-12-08",
+        "prices": {
+            "ALUMINUM": 2650.09,
+            "ZINC": 6893.96,
+            "COPPER": 3217.04,
+            "IRON": 2915.77,
+            "STAINLESS": 2176.57,
+            "NICKEL": 4852.74
+        }
+    },
+    {
+        "effectiveDate": "2025-12-09",
+        "prices": {
+            "ALUMINUM": 6496.42,
+            "ZINC": 5288.78,
+            "COPPER": 3656.32,
+            "IRON": 9214.57,
+            "STAINLESS": 6379.07,
+            "NICKEL": 6817.68
+        }
+    },
+    {
+        "effectiveDate": "2025-12-10",
+        "prices": {
+            "ALUMINUM": 2084.67,
+            "ZINC": 9431.73,
+            "COPPER": 5376.58,
+            "IRON": 7224.9,
+            "STAINLESS": 6712.81,
+            "NICKEL": 4857.99
+        }
+    },
+    {
+        "effectiveDate": "2025-12-11",
+        "prices": {
+            "ALUMINUM": 5705.16,
+            "ZINC": 6188.52,
+            "COPPER": 8007.89,
+            "IRON": 9504.43,
+            "STAINLESS": 6700.71,
+            "NICKEL": 8664.21
+        }
+    },
+    {
+        "effectiveDate": "2025-12-12",
+        "prices": {
+            "ALUMINUM": 3220.71,
+            "ZINC": 7989.25,
+            "COPPER": 6735.12,
+            "IRON": 6450.31,
+            "STAINLESS": 4635.94,
+            "NICKEL": 7876.8
+        }
+    },
+    {
+        "effectiveDate": "2025-12-13",
+        "prices": {
+            "ALUMINUM": 8462.29,
+            "ZINC": 4770.4,
+            "COPPER": 8392.51,
+            "IRON": 7017.06,
+            "STAINLESS": 8963.28,
+            "NICKEL": 8656.95
+        }
+    },
+    {
+        "effectiveDate": "2025-12-14",
+        "prices": {
+            "ALUMINUM": 9473.14,
+            "ZINC": 4750.76,
+            "COPPER": 4774.78,
+            "IRON": 8101.94,
+            "STAINLESS": 5729.39,
+            "NICKEL": 8588.31
+        }
+    },
+    {
+        "effectiveDate": "2025-12-15",
+        "prices": {
+            "ALUMINUM": 9963.49,
+            "ZINC": 8167.18,
+            "COPPER": 6737.41,
+            "IRON": 6264.38,
+            "STAINLESS": 6382.11,
+            "NICKEL": 9883.95
+        }
+    },
+    {
+        "effectiveDate": "2025-12-16",
+        "prices": {
+            "ALUMINUM": 7904.5,
+            "ZINC": 5327.45,
+            "COPPER": 2327.59,
+            "IRON": 7388.64,
+            "STAINLESS": 8227.8,
+            "NICKEL": 2299.54
+        }
+    },
+    {
+        "effectiveDate": "2025-12-17",
+        "prices": {
+            "ALUMINUM": 9841.98,
+            "ZINC": 3647.1,
+            "COPPER": 4964.25,
+            "IRON": 4449.16,
+            "STAINLESS": 5010.32,
+            "NICKEL": 9729.17
+        }
+    },
+    {
+        "effectiveDate": "2025-12-18",
+        "prices": {
+            "ALUMINUM": 5317.83,
+            "ZINC": 7248.22,
+            "COPPER": 6941.07,
+            "IRON": 9320.86,
+            "STAINLESS": 2687.62,
+            "NICKEL": 4501.45
+        }
+    },
+    {
+        "effectiveDate": "2025-12-19",
+        "prices": {
+            "ALUMINUM": 6290.42,
+            "ZINC": 4055.11,
+            "COPPER": 2933.23,
+            "IRON": 8874.08,
+            "STAINLESS": 3132.74,
+            "NICKEL": 9343.7
+        }
+    },
+    {
+        "effectiveDate": "2025-12-20",
+        "prices": {
+            "ALUMINUM": 9609.18,
+            "ZINC": 9693.01,
+            "COPPER": 9824.02,
+            "IRON": 6681.69,
+            "STAINLESS": 2076.13,
+            "NICKEL": 4518.28
+        }
+    },
+    {
+        "effectiveDate": "2025-12-21",
+        "prices": {
+            "ALUMINUM": 2427.14,
+            "ZINC": 7694.5,
+            "COPPER": 3549.0,
+            "IRON": 7402.43,
+            "STAINLESS": 2926.68,
+            "NICKEL": 7446.54
+        }
+    },
+    {
+        "effectiveDate": "2025-12-22",
+        "prices": {
+            "ALUMINUM": 8827.44,
+            "ZINC": 8545.43,
+            "COPPER": 6212.01,
+            "IRON": 2032.21,
+            "STAINLESS": 9005.51,
+            "NICKEL": 3146.91
+        }
+    },
+    {
+        "effectiveDate": "2025-12-23",
+        "prices": {
+            "ALUMINUM": 4241.36,
+            "ZINC": 2064.62,
+            "COPPER": 5545.54,
+            "IRON": 7968.67,
+            "STAINLESS": 2890.55,
+            "NICKEL": 8036.94
+        }
+    },
+    {
+        "effectiveDate": "2025-12-24",
+        "prices": {
+            "ALUMINUM": 8157.28,
+            "ZINC": 2830.53,
+            "COPPER": 5137.58,
+            "IRON": 9973.4,
+            "STAINLESS": 2349.94,
+            "NICKEL": 4990.29
+        }
+    },
+    {
+        "effectiveDate": "2025-12-25",
+        "prices": {
+            "ALUMINUM": 5220.3,
+            "ZINC": 2000.19,
+            "COPPER": 6488.02,
+            "IRON": 2329.06,
+            "STAINLESS": 8663.89,
+            "NICKEL": 9854.13
+        }
+    },
+    {
+        "effectiveDate": "2025-12-26",
+        "prices": {
+            "ALUMINUM": 6101.25,
+            "ZINC": 6770.33,
+            "COPPER": 5778.94,
+            "IRON": 5461.11,
+            "STAINLESS": 2136.42,
+            "NICKEL": 6901.42
+        }
+    },
+    {
+        "effectiveDate": "2025-12-27",
+        "prices": {
+            "ALUMINUM": 7807.1,
+            "ZINC": 4116.93,
+            "COPPER": 8837.43,
+            "IRON": 9042.01,
+            "STAINLESS": 5912.06,
+            "NICKEL": 3920.19
+        }
+    },
+    {
+        "effectiveDate": "2025-12-28",
+        "prices": {
+            "ALUMINUM": 5257.91,
+            "ZINC": 2981.27,
+            "COPPER": 3951.59,
+            "IRON": 7644.55,
+            "STAINLESS": 9168.48,
+            "NICKEL": 9764.0
+        }
+    },
+    {
+        "effectiveDate": "2025-12-29",
+        "prices": {
+            "ALUMINUM": 9523.89,
+            "ZINC": 6608.29,
+            "COPPER": 3763.62,
+            "IRON": 7711.39,
+            "STAINLESS": 4459.59,
+            "NICKEL": 7311.34
+        }
+    },
+    {
+        "effectiveDate": "2025-12-30",
+        "prices": {
+            "ALUMINUM": 4156.08,
+            "ZINC": 3630.61,
+            "COPPER": 5944.16,
+            "IRON": 8474.19,
+            "STAINLESS": 9044.76,
+            "NICKEL": 9695.57
+        }
+    },
+    {
+        "effectiveDate": "2025-12-31",
+        "prices": {
+            "ALUMINUM": 8623.35,
+            "ZINC": 4813.17,
+            "COPPER": 8317.98,
+            "IRON": 6924.01,
+            "STAINLESS": 4461.21,
+            "NICKEL": 6871.28
+        }
+    }
+]

@@ -1,0 +1,38 @@
+/* Area2 자식 요소 */
+.b, .c, .d {
+    position: relative;
+    padding: 0px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    width: 100%;
+}
+
+/* 각 요소 고유 색상 */
+.b {
+    background-color: #ffffff;
+    height: 300px;
+    box-shadow: 0 5px 10px rgba(255, 255, 255, 0.6); /* 아래쪽 흰색 그림자 */
+    border-bottom: 1px solid #8d8d8d; /* 아래쪽 선 추가 */
+}
+
+.c {
+    background-color: #ffffff ;
+    height: 350px;
+    display: flex; /* 플렉스박스 활성화 */
+    flex-direction: row; /* 가로 정렬 (기본값) */
+}
+
+
+.d {
+    /* background-color: #ffa07a; */
+    overflow: auto; /* 내용이 넘칠 경우 스크롤을 표시 */
+    margin-top: auto; /* 남은 공간을 위로 밀어냄 */
+    flex: 1;
+}
+
+.custom-grid-header {
+    position: sticky;
+    top: 0; /* 화면 상단에 고정 */
+    z-index: 1; /* 다른 내용 위에 표시되도록 */
+  }
